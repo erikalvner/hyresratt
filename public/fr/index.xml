@@ -1,130 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dot</title>
-    <link>http://localhost:1313/fr/</link>
-    <description>Recent content on Dot</description>
+    <title>Hyresfel</title>
+    <link>//localhost:1313/fr/</link>
+    <description>Recent content on Hyresfel</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 05 Jan 2023 10:42:26 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customer instructions for change of ownership</title>
-      <link>http://localhost:1313/fr/billing-pricing/ownership/</link>
+      <link>//localhost:1313/fr/billing-pricing/ownership/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/billing-pricing/ownership/</guid>
+      <guid>//localhost:1313/fr/billing-pricing/ownership/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/fr/features/linux/</link>
+      <link>//localhost:1313/fr/features/linux/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/features/linux/</guid>
+      <guid>//localhost:1313/fr/features/linux/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Requirments</title>
-      <link>http://localhost:1313/fr/installation/requirments/</link>
+      <link>//localhost:1313/fr/installation/requirments/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/installation/requirments/</guid>
+      <guid>//localhost:1313/fr/installation/requirments/</guid>
       <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.</description>
     </item>
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/fr/installation/install/</link>
+      <link>//localhost:1313/fr/installation/install/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/installation/install/</guid>
+      <guid>//localhost:1313/fr/installation/install/</guid>
       <description>The following steps are here to help you initialize your new website.</description>
     </item>
     <item>
       <title>Mac OS</title>
-      <link>http://localhost:1313/fr/features/mac/</link>
+      <link>//localhost:1313/fr/features/mac/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/features/mac/</guid>
+      <guid>//localhost:1313/fr/features/mac/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Manage My Sprint account</title>
-      <link>http://localhost:1313/fr/billing-pricing/manage/</link>
+      <link>//localhost:1313/fr/billing-pricing/manage/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/billing-pricing/manage/</guid>
+      <guid>//localhost:1313/fr/billing-pricing/manage/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1313/fr/installation/configuration/</link>
+      <link>//localhost:1313/fr/installation/configuration/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/installation/configuration/</guid>
+      <guid>//localhost:1313/fr/installation/configuration/</guid>
       <description>Global site parameters On top of Hugo global configuration , Dot lets you define the following parameters in your config.</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>http://localhost:1313/fr/installation/elements/</link>
+      <link>//localhost:1313/fr/installation/elements/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/installation/elements/</guid>
+      <guid>//localhost:1313/fr/installation/elements/</guid>
       <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
     </item>
     <item>
       <title>How to pay your bill</title>
-      <link>http://localhost:1313/fr/billing-pricing/bill/</link>
+      <link>//localhost:1313/fr/billing-pricing/bill/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/billing-pricing/bill/</guid>
+      <guid>//localhost:1313/fr/billing-pricing/bill/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Routing</title>
-      <link>http://localhost:1313/fr/features/routing/</link>
+      <link>//localhost:1313/fr/features/routing/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/features/routing/</guid>
+      <guid>//localhost:1313/fr/features/routing/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Customization</title>
-      <link>http://localhost:1313/fr/installation/customization/</link>
+      <link>//localhost:1313/fr/installation/customization/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/installation/customization/</guid>
+      <guid>//localhost:1313/fr/installation/customization/</guid>
       <description>Dot has been built to be as configurable as possible.</description>
     </item>
     <item>
       <title>Payment arrangements</title>
-      <link>http://localhost:1313/fr/billing-pricing/payment/</link>
+      <link>//localhost:1313/fr/billing-pricing/payment/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/billing-pricing/payment/</guid>
+      <guid>//localhost:1313/fr/billing-pricing/payment/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>http://localhost:1313/fr/features/ubuntu/</link>
+      <link>//localhost:1313/fr/features/ubuntu/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/features/ubuntu/</guid>
+      <guid>//localhost:1313/fr/features/ubuntu/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Understand the different levels of profile</title>
-      <link>http://localhost:1313/fr/billing-pricing/profile/</link>
+      <link>//localhost:1313/fr/billing-pricing/profile/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/billing-pricing/profile/</guid>
+      <guid>//localhost:1313/fr/billing-pricing/profile/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/fr/features/windows/</link>
+      <link>//localhost:1313/fr/features/windows/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/fr/features/windows/</guid>
+      <guid>//localhost:1313/fr/features/windows/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Frequently Asked Questions</title>
-      <link>http://localhost:1313/fr/faq/</link>
+      <link>//localhost:1313/fr/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/faq/</guid>
+      <guid>//localhost:1313/fr/faq/</guid>
       <description>Will updates also be free? Lorem, ipsum dolor sit amet consectetur adipisicing elit.</description>
     </item>
     <item>
       <title>Vous avez des questions</title>
-      <link>http://localhost:1313/fr/contact/</link>
+      <link>//localhost:1313/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/contact/</guid>
+      <guid>//localhost:1313/fr/contact/</guid>
       <description>Envoyez le formulaire et confirmez votre adresse e-mail à l&amp;rsquo;adresse Formspree .</description>
     </item>
   </channel>

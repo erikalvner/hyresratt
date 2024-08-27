@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Hyresfel</title>
+    <link>//localhost:1313/fr/uppsagd/</link>
+    <description>Recent content in Installation on Hyresfel</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 05 Jan 2023 10:42:26 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/uppsagd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Requirments</title>
+      <link>//localhost:1313/fr/uppsagd/vadinnebar/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/fr/uppsagd/vadinnebar/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.</description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>//localhost:1313/fr/uppsagd/kalendermanad/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/fr/uppsagd/kalendermanad/</guid>
+      <description>The following steps are here to help you initialize your new website.</description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>//localhost:1313/fr/uppsagd/configuration/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/fr/uppsagd/configuration/</guid>
+      <description>Global site parameters On top of Hugo global configuration , Dot lets you define the following parameters in your config.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>//localhost:1313/fr/uppsagd/elements/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/fr/uppsagd/elements/</guid>
+      <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>//localhost:1313/fr/uppsagd/customization/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/fr/uppsagd/customization/</guid>
+      <description>Dot has been built to be as configurable as possible.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uppsagd? on Hyresfel</title>
+    <link>//localhost:1313/uppsagd/</link>
+    <description>Recent content in Uppsagd? on Hyresfel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/uppsagd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vad innebär en uppsägning?</title>
+      <link>//localhost:1313/uppsagd/vadinnebar/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/vadinnebar/</guid>
+      <description>Har du fått en skriflig uppsägning? Uppsägningar från hyresvärden måste alltid vara skriftliga.</description>
+    </item>
+    <item>
+      <title>Var är kalendermånad, och varför är det viktigt?</title>
+      <link>//localhost:1313/uppsagd/kalendermanad/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/kalendermanad/</guid>
+      <description>The following steps are here to help you initialize your new website.</description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>//localhost:1313/uppsagd/configuration/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/configuration/</guid>
+      <description>Global site parameters On top of Hugo global configuration , Dot lets you define the following parameters in your config.</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>//localhost:1313/uppsagd/customization/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/customization/</guid>
+      <description>Dot has been built to be as configurable as possible.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>//localhost:1313/uppsagd/elements/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/elements/</guid>
+      <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
+    </item>
+  </channel>
+</rss>

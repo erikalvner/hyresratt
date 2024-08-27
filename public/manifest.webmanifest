@@ -1,10 +1,10 @@
 {
-  "name": "Dot",
-  "short_name": "Dot",
+  "name": "Hyresfel",
+  "short_name": "Hyresfel",
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
+  "start_url": "//localhost:1313/?utm_source=web_app_manifest",
   "background_color": "#f9f9f9",
   "theme_color": "#d38700ff",
 

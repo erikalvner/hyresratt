@@ -1,130 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dot</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Dot</description>
+    <title>Hyresfel</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Hyresfel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 10:42:26 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vad innebär en uppsägning?</title>
+      <link>//localhost:1313/uppsagd/vadinnebar/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/vadinnebar/</guid>
+      <description>Har du fått en skriflig uppsägning? Uppsägningar från hyresvärden måste alltid vara skriftliga.</description>
+    </item>
     <item>
       <title>Customer instructions for change of ownership</title>
-      <link>http://localhost:1313/billing-pricing/ownership/</link>
+      <link>//localhost:1313/brister/ownership/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/billing-pricing/ownership/</guid>
+      <guid>//localhost:1313/brister/ownership/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/features/linux/</link>
+      <link>//localhost:1313/forhandling/linux/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/linux/</guid>
+      <guid>//localhost:1313/forhandling/linux/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
-      <title>Requirments</title>
-      <link>http://localhost:1313/installation/requirments/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/installation/requirments/</guid>
-      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.</description>
-    </item>
-    <item>
-      <title>Installation</title>
-      <link>http://localhost:1313/installation/install/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/installation/install/</guid>
-      <description>The following steps are here to help you initialize your new website.</description>
-    </item>
-    <item>
       <title>Mac OS</title>
-      <link>http://localhost:1313/features/mac/</link>
+      <link>//localhost:1313/forhandling/mac/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/mac/</guid>
+      <guid>//localhost:1313/forhandling/mac/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Manage My Sprint account</title>
-      <link>http://localhost:1313/billing-pricing/manage/</link>
+      <link>//localhost:1313/brister/manage/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/billing-pricing/manage/</guid>
+      <guid>//localhost:1313/brister/manage/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
-      <title>Configuration</title>
-      <link>http://localhost:1313/installation/configuration/</link>
+      <title>Var är kalendermånad, och varför är det viktigt?</title>
+      <link>//localhost:1313/uppsagd/kalendermanad/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/installation/configuration/</guid>
+      <guid>//localhost:1313/uppsagd/kalendermanad/</guid>
+      <description>The following steps are here to help you initialize your new website.</description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>//localhost:1313/uppsagd/configuration/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/configuration/</guid>
       <description>Global site parameters On top of Hugo global configuration , Dot lets you define the following parameters in your config.</description>
     </item>
     <item>
       <title>How to pay your bill</title>
-      <link>http://localhost:1313/billing-pricing/bill/</link>
+      <link>//localhost:1313/brister/bill/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/billing-pricing/bill/</guid>
+      <guid>//localhost:1313/brister/bill/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Routing</title>
-      <link>http://localhost:1313/features/routing/</link>
+      <link>//localhost:1313/forhandling/routing/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/routing/</guid>
+      <guid>//localhost:1313/forhandling/routing/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Customization</title>
-      <link>http://localhost:1313/installation/customization/</link>
+      <link>//localhost:1313/uppsagd/customization/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/installation/customization/</guid>
+      <guid>//localhost:1313/uppsagd/customization/</guid>
       <description>Dot has been built to be as configurable as possible.</description>
     </item>
     <item>
       <title>Payment arrangements</title>
-      <link>http://localhost:1313/billing-pricing/payment/</link>
+      <link>//localhost:1313/brister/payment/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/billing-pricing/payment/</guid>
+      <guid>//localhost:1313/brister/payment/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>http://localhost:1313/features/ubuntu/</link>
+      <link>//localhost:1313/forhandling/ubuntu/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/ubuntu/</guid>
+      <guid>//localhost:1313/forhandling/ubuntu/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>http://localhost:1313/installation/elements/</link>
+      <link>//localhost:1313/uppsagd/elements/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/installation/elements/</guid>
+      <guid>//localhost:1313/uppsagd/elements/</guid>
       <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
     </item>
     <item>
       <title>Understand the different levels of profile</title>
-      <link>http://localhost:1313/billing-pricing/profile/</link>
+      <link>//localhost:1313/brister/profile/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/billing-pricing/profile/</guid>
+      <guid>//localhost:1313/brister/profile/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/features/windows/</link>
+      <link>//localhost:1313/forhandling/windows/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/windows/</guid>
+      <guid>//localhost:1313/forhandling/windows/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Frequently Asked Questions</title>
-      <link>http://localhost:1313/faq/</link>
+      <link>//localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
+      <guid>//localhost:1313/faq/</guid>
       <description>Will updates also be free? Lorem, ipsum dolor sit amet consectetur adipisicing elit.</description>
     </item>
     <item>
       <title>Got Any Questions</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>Submit the form and confirm your email address at Formspree .</description>
     </item>
   </channel>

@@ -1,14 +1,14 @@
 ---
 banner:
-  title: "Support Center & Knowledge base"
-  subtitle: "Find advice and answers from our support team fast or get in touch"
+  title: "Nätburet uppslagsverk i hyresrätt"
+  subtitle: "Använd kategorierna längre ner för att navigera dig fram, eller ännu bättre, skriv nyckelord i sökrutan! | exempel: trasig, brist, uppsagd, uppsägning"
   bg_image: "images/banner.jpg"
-  placeholder: "Have a question? Just ask here or enter terms"
+  placeholder: "exempel: trasig, brist, uppsagd, uppsägning"
 
 cta:
   enable: true
-  title: "Didn't find an answer to your question?"
-  content: "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+  title: "Är något felaktigt? Saknas något? Skriv till mig."
+  content: "Använd formuläret för att höra av dig, eller mejla mig på erik@kallmoraberget.com."
 
   button:
     enable: true
@@ -16,6 +16,12 @@ cta:
     link: "contact/"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id mi sit amet ipsum rhoncus pulvinar. Suspendisse consectetur hendrerit lectus eu molestie. Praesent at est arcu. Praesent tristique turpis massa, quis pellentesque tellus gravida sed. Duis consectetur justo in sodales volutpat. Phasellus pretium egestas ligula id scelerisque. Sed non enim in enim tristique laoreet. Duis mollis nulla tellus, faucibus varius dui vestibulum eget. Pellentesque congue nibh orci, ut ultrices ipsum tincidunt a. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse auctor elit id magna consequat malesuada. Vivamus euismod urna nunc, at hendrerit eros tincidunt at. Nunc posuere ipsum erat, id aliquet eros interdum quis.
+Nästan **två miljoner av Sveriges bostäder är hyresrätter.** Av dessa är inte ens 600 000 medlemmar i Hyresgästföreningen. Medlemskapet är minst sagt matnyttigt nät man väl behöver det, men många står utan av ideologiska, ekonomiska eller andra skäl. Eftersom man enligt **Hyresgästföreningens stadgar inte har rätt till juridiskt biträde om orsaken till den tvist man befinner sig med hyresvärden som motpart uppstod innan medlemskapet ingicks** står många "rättslösa".
 
-Cras condimentum et nibh quis fermentum. Praesent enim nisi, placerat sit amet ex ac, dapibus iaculis nibh. Aliquam dapibus in purus nec ullamcorper. Aliquam in lectus at nisi ornare dictum. Aenean bibendum elit nunc, in dignissim enim ornare eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed at tortor diam. Suspendisse non nunc leo. Nulla facilisi. Integer tristique mauris at risus fringilla maximus. Donec id justo ac diam efficitur vehicula. Morbi nec vestibulum felis, efficitur rhoncus nunc.
+Citationstecknen runt "rättslösa" hör till eftersom svensk hyreslagstiftning präglas starkt av det kollektiva skyddet för den lilla. Även om lagarna är långtgående, oftast till hyresgästens fördel, räcker det inte alltid hela vägen. Det gäller att veta vilka rättigheter och vilka skyldigheter man har som hyresgäst. Tanken med den här hemsidan är att man skall kunna ta reda på detta på ett enkelt och sökbart sätt.
+
+Detta projekt påbörjas i slutet av augusti 2024 och **jag utlovar absolut inte i nuläget att hemsidan vare sig kommer bli klar eller hållas helt färsk och uppdaterad**, men jag skall självklart göra mitt allra bästa för att så skall ske.
+
+Hoppas att någon har nytta av den, annars har jag slängt en hel del timmar i sjön.
+
+**OBS: Vissa funktioner på hemsidan kommer inte att underhållas, om de finns kvar vid sjösättning. Sådana är till exempel kontaktformuläret och knappen för att ändra språk från "engelska" till franska.**

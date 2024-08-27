@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Features on Dot</title>
-    <link>http://localhost:1313/features/</link>
-    <description>Recent content in Features on Dot</description>
+    <title>Features on Hyresfel</title>
+    <link>//localhost:1313/features/</link>
+    <description>Recent content in Features on Hyresfel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jan 2023 10:42:26 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/features/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/features/linux/</link>
+      <link>//localhost:1313/features/linux/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/linux/</guid>
+      <guid>//localhost:1313/features/linux/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Mac OS</title>
-      <link>http://localhost:1313/features/mac/</link>
+      <link>//localhost:1313/features/mac/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/mac/</guid>
+      <guid>//localhost:1313/features/mac/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Routing</title>
-      <link>http://localhost:1313/features/routing/</link>
+      <link>//localhost:1313/features/routing/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/routing/</guid>
+      <guid>//localhost:1313/features/routing/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>http://localhost:1313/features/ubuntu/</link>
+      <link>//localhost:1313/features/ubuntu/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/ubuntu/</guid>
+      <guid>//localhost:1313/features/ubuntu/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/features/windows/</link>
+      <link>//localhost:1313/features/windows/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>http://localhost:1313/features/windows/</guid>
+      <guid>//localhost:1313/features/windows/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
   </channel>
