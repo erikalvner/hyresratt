@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/fr/uppsagd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Requirments</title>
-      <link>//localhost:1313/fr/uppsagd/vadinnebar/</link>
+      <link>//localhost:1313/fr/uppsagd/galleruppsagningen/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/fr/uppsagd/vadinnebar/</guid>
+      <guid>//localhost:1313/fr/uppsagd/galleruppsagningen/</guid>
       <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.</description>
     </item>
     <item>

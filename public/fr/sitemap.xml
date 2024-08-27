@@ -28,17 +28,17 @@
                 href="//localhost:1313/fr/forhandling/linux/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/uppsagd/vadinnebar/</loc>
+    <loc>//localhost:1313/fr/uppsagd/galleruppsagningen/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/uppsagd/vadinnebar/"
+                href="//localhost:1313/uppsagd/galleruppsagningen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/uppsagd/vadinnebar/"
+                href="//localhost:1313/fr/uppsagd/galleruppsagningen/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/uppsagd/kalendermanad/</loc>
