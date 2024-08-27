@@ -15,6 +15,19 @@
                 href="//localhost:1313/uppsagd/galleruppsagningen/"
                 />
   </url><url>
+    <loc>//localhost:1313/forhandling/storhojning/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="//localhost:1313/fr/forhandling/storhojning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/forhandling/storhojning/"
+                />
+  </url><url>
     <loc>//localhost:1313/brister/ownership/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -26,32 +39,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="//localhost:1313/brister/ownership/"
-                />
-  </url><url>
-    <loc>//localhost:1313/forhandling/linux/</loc>
-    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/forhandling/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/forhandling/linux/"
-                />
-  </url><url>
-    <loc>//localhost:1313/forhandling/mac/</loc>
-    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/forhandling/mac/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/forhandling/mac/"
                 />
   </url><url>
     <loc>//localhost:1313/brister/manage/</loc>
@@ -80,19 +67,6 @@
                 href="//localhost:1313/uppsagd/kalendermanad/"
                 />
   </url><url>
-    <loc>//localhost:1313/uppsagd/configuration/</loc>
-    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/uppsagd/configuration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/uppsagd/configuration/"
-                />
-  </url><url>
     <loc>//localhost:1313/brister/bill/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -106,32 +80,6 @@
                 href="//localhost:1313/brister/bill/"
                 />
   </url><url>
-    <loc>//localhost:1313/forhandling/routing/</loc>
-    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/forhandling/routing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/forhandling/routing/"
-                />
-  </url><url>
-    <loc>//localhost:1313/uppsagd/customization/</loc>
-    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/uppsagd/customization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/uppsagd/customization/"
-                />
-  </url><url>
     <loc>//localhost:1313/brister/payment/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -143,19 +91,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="//localhost:1313/brister/payment/"
-                />
-  </url><url>
-    <loc>//localhost:1313/forhandling/ubuntu/</loc>
-    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/forhandling/ubuntu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/forhandling/ubuntu/"
                 />
   </url><url>
     <loc>//localhost:1313/uppsagd/elements/</loc>
@@ -184,19 +119,6 @@
                 href="//localhost:1313/brister/profile/"
                 />
   </url><url>
-    <loc>//localhost:1313/forhandling/windows/</loc>
-    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/forhandling/windows/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/forhandling/windows/"
-                />
-  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -208,6 +130,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="//localhost:1313/"
+                />
+  </url><url>
+    <loc>//localhost:1313/forhandling/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="//localhost:1313/fr/forhandling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/forhandling/"
                 />
   </url><url>
     <loc>//localhost:1313/uppsagd/</loc>
@@ -234,19 +169,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="//localhost:1313/brister/"
-                />
-  </url><url>
-    <loc>//localhost:1313/forhandling/</loc>
-    <lastmod>2022-12-28T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/forhandling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/forhandling/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/</loc>

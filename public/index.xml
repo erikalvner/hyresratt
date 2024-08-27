@@ -16,24 +16,17 @@
       <description>För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.</description>
     </item>
     <item>
+      <title>Jag har fått en stor höjning, vad ska jag göra?</title>
+      <link>//localhost:1313/forhandling/storhojning/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/forhandling/storhojning/</guid>
+      <description>Om du misstänker att årets hyreshöjning är alldeles för hög ska du i första hand kontakta Hyresgästföreningen.</description>
+    </item>
+    <item>
       <title>Customer instructions for change of ownership</title>
       <link>//localhost:1313/brister/ownership/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/brister/ownership/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>//localhost:1313/forhandling/linux/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/linux/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Mac OS</title>
-      <link>//localhost:1313/forhandling/mac/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/mac/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
@@ -51,13 +44,6 @@
       <description>Tre kalendermånader innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte.</description>
     </item>
     <item>
-      <title>Configuration</title>
-      <link>//localhost:1313/uppsagd/configuration/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/uppsagd/configuration/</guid>
-      <description>Global site parameters On top of Hugo global configuration , Dot lets you define the following parameters in your config.</description>
-    </item>
-    <item>
       <title>How to pay your bill</title>
       <link>//localhost:1313/brister/bill/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
@@ -65,31 +51,10 @@
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
-      <title>Routing</title>
-      <link>//localhost:1313/forhandling/routing/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/routing/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Customization</title>
-      <link>//localhost:1313/uppsagd/customization/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/uppsagd/customization/</guid>
-      <description>Dot has been built to be as configurable as possible.</description>
-    </item>
-    <item>
       <title>Payment arrangements</title>
       <link>//localhost:1313/brister/payment/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/brister/payment/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Ubuntu</title>
-      <link>//localhost:1313/forhandling/ubuntu/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/ubuntu/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
@@ -104,13 +69,6 @@
       <link>//localhost:1313/brister/profile/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/brister/profile/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Windows</title>
-      <link>//localhost:1313/forhandling/windows/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/windows/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
