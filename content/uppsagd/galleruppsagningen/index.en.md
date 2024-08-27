@@ -8,9 +8,14 @@ draft: false
 keywords: [""]
 ---
 #### För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.
-**Det finns mycket regler runt uppsängingar. Om en hyresvärd skickar en uppsägning betyder det inte att man måste flytta ut. Uppsägningen måste alltid prövas rättsligt om hyresgästen har besittningsskydd.**
 
-__**Den som hyr i andra hand eller är inneboende har inte besittningsskydd. Man kan då inte få uppsägningen prövad. Du som har skrivit under ett besittningsskyddsavstående i samband med att kontraktet tecknades kan inte heller få uppsägningen prövad, förutsatt att den sker av den anledning som framgår i besittningsskyddsavståendet.**__
+###### Uppsägningen måste alltid prövas rättsligt innan den gäller
+
+**Det finns mycket regler runt uppsägningar. Om en hyresvärd skickar en uppsägning betyder det inte att man måste flytta ut. Uppsägningen måste alltid prövas rättsligt om hyresgästen har besittningsskydd.**
+
+###### Undantag vid inneboendesituation och andrahandsuthyrning
+
+_**Den som hyr i andra hand eller är inneboende har inte besittningsskydd. Man kan då inte få uppsägningen prövad. Du som har skrivit under ett besittningsskyddsavstående i samband med att kontraktet tecknades kan inte heller få uppsägningen prövad, förutsatt att den sker av den anledning som framgår i besittningsskyddsavståendet.**_
 
 
 ###### Har du fått en skriflig uppsägning?
