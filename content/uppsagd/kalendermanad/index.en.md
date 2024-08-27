@@ -34,7 +34,7 @@ Har du fått en skriftlig uppsägning med tre kalendermånaders uppsägningstid 
 
 
 
-{{< collapse "Forverkande" >}}
+{{< collapse "Mer om förverkande" >}}
 ###### Förverkande
 
 Förverkanden är tyvärr lite allvarligare än förlängningstvister. Dels på grund av konsekvenserna man kan drabbas av, men framför allt på grund av att det ofta handlar om att man måste agera väldigt snabbt. Skillnaden mot förlängningstvister är att hyresvärden vid förverkande har möjlighet att vräka hyresgäster kortare inpå än den avtalade uppsägningstiden.
