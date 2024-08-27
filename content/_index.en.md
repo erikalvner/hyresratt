@@ -8,7 +8,7 @@ banner:
 cta:
   enable: true
   title: "Är något felaktigt? Saknas något? Skriv till mig."
-  content: "Använd formuläret för att höra av dig, eller mejla mig på erik@kallmoraberget.com."
+  content: "Mejl | erik@kallmoraberget.com"
 
   button:
     enable: true

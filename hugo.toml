@@ -6,11 +6,7 @@ title = "hyresl"
 # Your theme name
 theme = "dot-hugo"
 
-home = "Erik"
-
-logo = "hyresfel"
-
-logo_text = "hyresfel"
+logo_text = "hyrsl"
 
 
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
@@ -26,8 +22,7 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
-[params]
-  name= 'Hyresfel'
+
 
 ########################## Permalinks ############################
 [permalinks.page]

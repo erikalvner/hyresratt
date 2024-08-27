@@ -9,7 +9,7 @@ logo_width = "100px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Dot"
+logo_text = "hyresl"
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -74,26 +74,22 @@ mastodon = "" # Your verification code
 [cookies]
 enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Den här sajten använder kakor. Genom att godkänna går du med på det."
+button = "Jag godkänner"
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "ti-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 
 [[social]]
 title = "twitter"
 icon = "ti-twitter-alt" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://x.com/erikalvner"
 
 [[social]]
 title = "github"
 icon = "ti-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://github.com/erikalvner"
 
 [[social]]
 title = "linkedin"
 icon = "ti-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "www.linkedin.com/in/erik-alvner-b55a292b5"

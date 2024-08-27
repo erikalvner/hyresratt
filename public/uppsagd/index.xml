@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uppsagd? on hyresl</title>
-    <link>//localhost:45239/uppsagd/</link>
+    <link>//localhost:1313/uppsagd/</link>
     <description>Recent content in Uppsagd? on hyresl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
-    <atom:link href="//localhost:45239/uppsagd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/uppsagd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gäller uppsägningen?</title>
-      <link>//localhost:45239/uppsagd/galleruppsagningen/</link>
+      <link>//localhost:1313/uppsagd/galleruppsagningen/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:45239/uppsagd/galleruppsagningen/</guid>
+      <guid>//localhost:1313/uppsagd/galleruppsagningen/</guid>
       <description>För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.</description>
     </item>
     <item>
       <title>Var är kalendermånad, och varför är det viktigt?</title>
-      <link>//localhost:45239/uppsagd/kalendermanad/</link>
+      <link>//localhost:1313/uppsagd/kalendermanad/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:45239/uppsagd/kalendermanad/</guid>
+      <guid>//localhost:1313/uppsagd/kalendermanad/</guid>
       <description>Tre kalendermånader innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte.</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>//localhost:45239/uppsagd/elements/</link>
+      <link>//localhost:1313/uppsagd/elements/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:45239/uppsagd/elements/</guid>
+      <guid>//localhost:1313/uppsagd/elements/</guid>
       <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
     </item>
   </channel>
