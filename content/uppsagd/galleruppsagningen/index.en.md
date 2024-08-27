@@ -29,6 +29,6 @@ Många hyresvärdar hotar med uppsägning eftersom risken att förlora bostaden 
 
 ###### Ja, jag har fått en skriftlig uppsägning.
 
-Om du har fått en skriftlig uppsägning är det viktigt att ta reda på några saker. Oavsett vad som står i ditt hyresavtal är hyresvärdens uppsägningstid alltid **tre kalendermånad**. Det är viktigt att kolla i uppsägningen du har fått om datumet som hyresvärden angivit för när avtalet upphör är innan eller efter tre kalendermånader framåt i tiden.
+Om du har fått en skriftlig uppsägning är det viktigt att ta reda på några saker. Oavsett vad som står i ditt hyresavtal är hyresvärdens uppsägningstid alltid minst **tre kalendermånader**. Längre avtalat uppsägningstid är endast bindande för hyresvärden. Det är viktigt att kolla i uppsägningen du har fått om datumet som hyresvärden angivit för när avtalet upphör är innan eller efter tre kalendermånader framåt i tiden.
 
 **Gå vidare till nästa steg, _Vad är kalendermånad, och varför är det viktigt?_**.
