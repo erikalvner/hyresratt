@@ -16,11 +16,11 @@
       <description>För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.</description>
     </item>
     <item>
-      <title>Jag har fått en stor höjning, vad ska jag göra?</title>
-      <link>//localhost:1313/forhandling/storhojning/</link>
+      <title>Jag tror att jag betalar för mycket i hyra</title>
+      <link>//localhost:1313/forhandling/hoghyra/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/storhojning/</guid>
-      <description>Om du misstänker att årets hyreshöjning är alldeles för hög ska du i första hand kontakta Hyresgästföreningen.</description>
+      <guid>//localhost:1313/forhandling/hoghyra/</guid>
+      <description></description>
     </item>
     <item>
       <title>Customer instructions for change of ownership</title>

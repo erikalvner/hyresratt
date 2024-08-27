@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/forhandling/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jag har fått en stor höjning, vad ska jag göra?</title>
-      <link>//localhost:1313/forhandling/storhojning/</link>
+      <title>Jag tror att jag betalar för mycket i hyra</title>
+      <link>//localhost:1313/forhandling/hoghyra/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/storhojning/</guid>
-      <description>Om du misstänker att årets hyreshöjning är alldeles för hög ska du i första hand kontakta Hyresgästföreningen.</description>
+      <guid>//localhost:1313/forhandling/hoghyra/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
