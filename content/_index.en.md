@@ -5,15 +5,7 @@ banner:
   bg_image: "images/banner.jpg"
   placeholder: "exempel: trasig, brist, uppsagd, uppsägning"
 
-cta:
-  enable: true
-  title: "Är något felaktigt? Saknas något? Skriv till mig."
-  content: "Mejl | erik@kallmoraberget.com"
 
-  button:
-    enable: true
-    label: "contact us"
-    link: "contact/"
 ---
 
 Nästan **två miljoner av Sveriges bostäder är hyresrätter.** Av dessa är inte ens 600 000 medlemmar i Hyresgästföreningen. Medlemskapet är minst sagt matnyttigt nät man väl behöver det, men många står utan av ideologiska, ekonomiska eller andra skäl. Eftersom man enligt **Hyresgästföreningens stadgar inte har rätt till juridiskt biträde om orsaken till den tvist man befinner sig med hyresvärden som motpart uppstod innan medlemskapet ingicks** står många "rättslösa".
@@ -24,4 +16,3 @@ Detta projekt påbörjas i slutet av augusti 2024 och **jag utlovar absolut inte
 
 Hoppas att någon har nytta av den, annars har jag slängt en hel del timmar i sjön.
 
-**OBS: Vissa funktioner på hemsidan kommer inte att underhållas, om de finns kvar vid sjösättning. Sådana är till exempel kontaktformuläret och knappen för att ändra språk från "engelska" till franska.**
