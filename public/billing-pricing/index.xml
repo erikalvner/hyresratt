@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billing &amp; Pricing on Dot</title>
+    <link>http://localhost:1313/dot/site/billing-pricing/</link>
+    <description>Recent content in Billing &amp; Pricing on Dot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 10:42:26 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/dot/site/billing-pricing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer instructions for change of ownership</title>
+      <link>http://localhost:1313/dot/site/billing-pricing/ownership/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/billing-pricing/ownership/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
+      <title>Manage My Sprint account</title>
+      <link>http://localhost:1313/dot/site/billing-pricing/manage/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/billing-pricing/manage/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
+      <title>How to pay your bill</title>
+      <link>http://localhost:1313/dot/site/billing-pricing/bill/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/billing-pricing/bill/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
+      <title>Payment arrangements</title>
+      <link>http://localhost:1313/dot/site/billing-pricing/payment/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/billing-pricing/payment/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
+      <title>Understand the different levels of profile</title>
+      <link>http://localhost:1313/dot/site/billing-pricing/profile/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/billing-pricing/profile/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+  </channel>
+</rss>

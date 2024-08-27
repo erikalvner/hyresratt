@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Dot</title>
+    <link>http://localhost:1313/dot/site/installation/</link>
+    <description>Recent content in Installation on Dot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 10:42:26 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/dot/site/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Requirments</title>
+      <link>http://localhost:1313/dot/site/installation/requirments/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/installation/requirments/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.</description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/dot/site/installation/install/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/installation/install/</guid>
+      <description>The following steps are here to help you initialize your new website.</description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>http://localhost:1313/dot/site/installation/configuration/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/installation/configuration/</guid>
+      <description>Global site parameters On top of Hugo global configuration , Dot lets you define the following parameters in your config.</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>http://localhost:1313/dot/site/installation/customization/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/installation/customization/</guid>
+      <description>Dot has been built to be as configurable as possible.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>http://localhost:1313/dot/site/installation/elements/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>http://localhost:1313/dot/site/installation/elements/</guid>
+      <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
+    </item>
+  </channel>
+</rss>
