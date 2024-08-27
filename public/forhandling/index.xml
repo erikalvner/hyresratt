@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hyreshöjningar och förhandlingar on Hyresfel</title>
-    <link>//localhost:1313/forhandling/</link>
-    <description>Recent content in Hyreshöjningar och förhandlingar on Hyresfel</description>
+    <title>Hyreshöjningar och förhandlingar on hyresl</title>
+    <link>//localhost:45239/forhandling/</link>
+    <description>Recent content in Hyreshöjningar och förhandlingar on hyresl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/forhandling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:45239/forhandling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jag tror att jag betalar för mycket i hyra</title>
-      <link>//localhost:1313/forhandling/hoghyra/</link>
+      <link>//localhost:45239/forhandling/hoghyra/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling/hoghyra/</guid>
-      <description></description>
+      <guid>//localhost:45239/forhandling/hoghyra/</guid>
+      <description>Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt.</description>
     </item>
   </channel>
 </rss>

@@ -29,15 +29,9 @@ Att inte betala den hyra man är skyldig till kan leda till att hyresrätten bli
 
 {{< collapse "Min lägenhet omfattas--**inte**--av förhandlingsordning" >}}
 
-Om den lägenhet du bor i **omfattas av en förhandlingsordning** har du **förbundit dig att betala** den aviserade höjningen i och med att du skrev under ditt **hyresavtal**.
+Har din lägenhet inte en förhandlingsordning knuten till sig råder avtalsfrihet. Den hyra som du och hyresvärden sist kom överens om är den som gäller. Hyresvärden kan inte ensidigt höja hyran lika lite som du kan sänka den på eget initiativ.
 
-Det händer dock att **förhandlingar strandar**. Det innebär alltså att **Hyresgästföreningens förhandlare och hyresvärden inte kan komma överens**.
-
-När en **förhandling strandar** kan man lite fult säga att **Hyresgästföreningen träder ur sin post**. Det är då istället upp till **hyresvärden att förhandla med varje enskild hyresgäst**. Eftersom **avtalsfrihet råder** är det **den hyra du tidigare har betalat som gäller**. Du är bunden av våra tidigare, lyckade förhandlingar, men inte av ett anbud din hyresvärd mer eller mindre dragit ur luften.  
-
-Vill **hyresvärden trots allt höja hyran** måste han då **vända sig till Hyresnämnden**, en domstolsliknande myndighet som prövar tvister som rör hyres- och arrendeförhållanden. Där går det att ansöka om prövning av hyresnivån i form av en villkorsändring. **Hyresnämnden gör inte någon bedömning** på den **höjning** som hyresvärden begär, utan **prövar istället hela bruksvärdet**, vilket i sin tur ligger till **grund för hyresnivån**. Har man en väldigt **hög hyra** kan den därför komma att **sänkas** på samma sätt som en väldigt **låg hyra** kan komma att **höjas**. Bedömningen görs främst utifrån referensmaterial på liknande lägenheter i närområdet.
-
-
+Vill hyresvärden trots det **höja hyran** måste han ansöka om **villkorsändring i hyresnämnden**. Där genomförs en prövning av lägenhetens bruksvärde och en korrekt hyra sätts utefter det. De prövar alltså inte den enstaka begärda höjningen, utan **hela lägenhetens skäliga hyra**. En **låg hyra** kan därför komma att **höjas** medan en person som **betalar för mycket** kan få sin **hyra sänkt**.
 
 
 {{< /collapse >}}

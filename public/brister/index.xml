@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Är något trasigt? on Hyresfel</title>
-    <link>//localhost:1313/brister/</link>
-    <description>Recent content in Är något trasigt? on Hyresfel</description>
+    <title>Är något trasigt? on hyresl</title>
+    <link>//localhost:45239/brister/</link>
+    <description>Recent content in Är något trasigt? on hyresl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jan 2023 10:42:26 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/brister/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:45239/brister/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customer instructions for change of ownership</title>
-      <link>//localhost:1313/brister/ownership/</link>
+      <link>//localhost:45239/brister/ownership/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/ownership/</guid>
+      <guid>//localhost:45239/brister/ownership/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Manage My Sprint account</title>
-      <link>//localhost:1313/brister/manage/</link>
+      <link>//localhost:45239/brister/manage/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/manage/</guid>
+      <guid>//localhost:45239/brister/manage/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>How to pay your bill</title>
-      <link>//localhost:1313/brister/bill/</link>
+      <link>//localhost:45239/brister/bill/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/bill/</guid>
+      <guid>//localhost:45239/brister/bill/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Payment arrangements</title>
-      <link>//localhost:1313/brister/payment/</link>
+      <link>//localhost:45239/brister/payment/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/payment/</guid>
+      <guid>//localhost:45239/brister/payment/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Understand the different levels of profile</title>
-      <link>//localhost:1313/brister/profile/</link>
+      <link>//localhost:45239/brister/profile/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/profile/</guid>
+      <guid>//localhost:45239/brister/profile/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
   </channel>
