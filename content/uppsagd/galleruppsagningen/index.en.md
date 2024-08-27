@@ -7,6 +7,9 @@ draft: false
 # search related keywords
 keywords: [""]
 ---
+#### För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.
+**Det finns mycket regler runt uppsängingar. Om en hyresvärd skickar en uppsägning betyder det inte att man måste flytta ut. Uppsägningen måste alltid prövas rättsligt om hyresgästen har besittningsskydd.**
+
 
 #### Har du fått en skriflig uppsägning?
 Uppsägningar från hyresvärden **måste alltid vara skriftliga**. Har du **inte fått** en **skriftlig uppsägning** är du därför **inte uppsagd**.
