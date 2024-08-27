@@ -72,11 +72,11 @@
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
-      <title>Frequently Asked Questions</title>
+      <title>Vanliga frågor</title>
       <link>//localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/faq/</guid>
-      <description>Will updates also be free? Lorem, ipsum dolor sit amet consectetur adipisicing elit.</description>
+      <description>Will updates also be free? Här skriver jag allting i markdown bla bla bla Discounts for students and Non Profit Organizations?</description>
     </item>
   </channel>
 </rss>
