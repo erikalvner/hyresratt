@@ -30,10 +30,24 @@
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
+      <title>Customer instructions for change of ownership</title>
+      <link>//localhost:1313/hyreslagen/ownership/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/ownership/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
       <title>Manage My Sprint account</title>
       <link>//localhost:1313/brister/manage/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/brister/manage/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
+      <title>Manage My Sprint account</title>
+      <link>//localhost:1313/hyreslagen/manage/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/manage/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
@@ -51,10 +65,24 @@
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
+      <title>How to pay your bill</title>
+      <link>//localhost:1313/hyreslagen/bill/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/bill/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
       <title>Payment arrangements</title>
       <link>//localhost:1313/brister/payment/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/brister/payment/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
+      <title>Payment arrangements</title>
+      <link>//localhost:1313/hyreslagen/payment/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/payment/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
@@ -72,11 +100,18 @@
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
-      <title>Vanliga frågor</title>
+      <title>Understand the different levels of profile</title>
+      <link>//localhost:1313/hyreslagen/profile/</link>
+      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/profile/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
+    </item>
+    <item>
+      <title>inte faq</title>
       <link>//localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/faq/</guid>
-      <description>Will updates also be free? Här skriver jag allting i markdown bla bla bla Discounts for students and Non Profit Organizations?</description>
+      <description>Är sajten kopplad till Hyresgästföreningen? Nej. Inte alls. Jag som har skapat den arbetar på Hyresgästföreningen som juridisk rådgivare, men det här är ett sidoprojekt som inte över huvud taget är kopplat till Hyresgästföreningen.</description>
     </item>
   </channel>
 </rss>

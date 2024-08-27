@@ -38,7 +38,7 @@
   WebFont.load({
     google: {
       api: 'https://fonts.googleapis.com/css2',
-      families: ['{{$pf | default `Lato:wght@400`}}{{if not $sf}}&display=swap{{end}}'{{with $sf}},'{{. | default `Lato:wght@400`}}&display=swap'{{end}}],
+      families: ['{{$pf | default `Roboto:wght@400`}}{{if not $sf}}&display=swap{{end}}'{{with $sf}},'{{. | default `Lato:wght@400`}}&display=swap'{{end}}],
       version: 2
     },
     active: () => {sessionStorage.fontsLoaded = true}

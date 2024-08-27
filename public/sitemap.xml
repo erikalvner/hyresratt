@@ -11,7 +11,13 @@
     <loc>//localhost:1313/brister/ownership/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/hyreslagen/ownership/</loc>
+    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/brister/manage/</loc>
+    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/hyreslagen/manage/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/uppsagd/kalendermanad/</loc>
@@ -20,13 +26,22 @@
     <loc>//localhost:1313/brister/bill/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/hyreslagen/bill/</loc>
+    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/brister/payment/</loc>
+    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/hyreslagen/payment/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/uppsagd/elements/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/brister/profile/</loc>
+    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/hyreslagen/profile/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
@@ -39,6 +54,9 @@
     <lastmod>2022-12-29T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/brister/</loc>
+    <lastmod>2022-12-28T11:02:05+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/hyreslagen/</loc>
     <lastmod>2022-12-28T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
