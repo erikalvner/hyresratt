@@ -2,199 +2,199 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/fr/billing-pricing/ownership/</loc>
+    <loc>//localhost:1313/fr/brister/ownership/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/billing-pricing/ownership/"
+                href="//localhost:1313/brister/ownership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/billing-pricing/ownership/"
+                href="//localhost:1313/fr/brister/ownership/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/features/linux/</loc>
+    <loc>//localhost:1313/fr/forhandling/linux/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/features/linux/"
+                href="//localhost:1313/forhandling/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/features/linux/"
+                href="//localhost:1313/fr/forhandling/linux/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/installation/requirments/</loc>
+    <loc>//localhost:1313/fr/uppsagd/vadinnebar/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/installation/requirments/"
+                href="//localhost:1313/uppsagd/vadinnebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/installation/requirments/"
+                href="//localhost:1313/fr/uppsagd/vadinnebar/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/installation/install/</loc>
+    <loc>//localhost:1313/fr/uppsagd/kalendermanad/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/installation/install/"
+                href="//localhost:1313/uppsagd/kalendermanad/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/installation/install/"
+                href="//localhost:1313/fr/uppsagd/kalendermanad/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/features/mac/</loc>
+    <loc>//localhost:1313/fr/forhandling/mac/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/features/mac/"
+                href="//localhost:1313/forhandling/mac/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/features/mac/"
+                href="//localhost:1313/fr/forhandling/mac/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/billing-pricing/manage/</loc>
+    <loc>//localhost:1313/fr/brister/manage/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/billing-pricing/manage/"
+                href="//localhost:1313/brister/manage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/billing-pricing/manage/"
+                href="//localhost:1313/fr/brister/manage/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/installation/configuration/</loc>
+    <loc>//localhost:1313/fr/uppsagd/configuration/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/installation/configuration/"
+                href="//localhost:1313/uppsagd/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/installation/configuration/"
+                href="//localhost:1313/fr/uppsagd/configuration/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/installation/elements/</loc>
+    <loc>//localhost:1313/fr/uppsagd/elements/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/installation/elements/"
+                href="//localhost:1313/uppsagd/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/installation/elements/"
+                href="//localhost:1313/fr/uppsagd/elements/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/billing-pricing/bill/</loc>
+    <loc>//localhost:1313/fr/brister/bill/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/billing-pricing/bill/"
+                href="//localhost:1313/brister/bill/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/billing-pricing/bill/"
+                href="//localhost:1313/fr/brister/bill/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/features/routing/</loc>
+    <loc>//localhost:1313/fr/forhandling/routing/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/features/routing/"
+                href="//localhost:1313/forhandling/routing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/features/routing/"
+                href="//localhost:1313/fr/forhandling/routing/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/installation/customization/</loc>
+    <loc>//localhost:1313/fr/uppsagd/customization/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/installation/customization/"
+                href="//localhost:1313/uppsagd/customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/installation/customization/"
+                href="//localhost:1313/fr/uppsagd/customization/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/billing-pricing/payment/</loc>
+    <loc>//localhost:1313/fr/brister/payment/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/billing-pricing/payment/"
+                href="//localhost:1313/brister/payment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/billing-pricing/payment/"
+                href="//localhost:1313/fr/brister/payment/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/features/ubuntu/</loc>
+    <loc>//localhost:1313/fr/forhandling/ubuntu/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/features/ubuntu/"
+                href="//localhost:1313/forhandling/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/features/ubuntu/"
+                href="//localhost:1313/fr/forhandling/ubuntu/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/billing-pricing/profile/</loc>
+    <loc>//localhost:1313/fr/brister/profile/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/billing-pricing/profile/"
+                href="//localhost:1313/brister/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/billing-pricing/profile/"
+                href="//localhost:1313/fr/brister/profile/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/features/windows/</loc>
+    <loc>//localhost:1313/fr/forhandling/windows/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/features/windows/"
+                href="//localhost:1313/forhandling/windows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/features/windows/"
+                href="//localhost:1313/fr/forhandling/windows/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/</loc>
@@ -210,43 +210,43 @@
                 href="//localhost:1313/fr/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/installation/</loc>
+    <loc>//localhost:1313/fr/uppsagd/</loc>
     <lastmod>2022-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/installation/"
+                href="//localhost:1313/uppsagd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/installation/"
+                href="//localhost:1313/fr/uppsagd/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/billing-pricing/</loc>
+    <loc>//localhost:1313/fr/brister/</loc>
     <lastmod>2022-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/billing-pricing/"
+                href="//localhost:1313/brister/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/billing-pricing/"
+                href="//localhost:1313/fr/brister/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/features/</loc>
+    <loc>//localhost:1313/fr/forhandling/</loc>
     <lastmod>2022-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/features/"
+                href="//localhost:1313/forhandling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/features/"
+                href="//localhost:1313/fr/forhandling/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/categories/</loc>
