@@ -2,299 +2,299 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dot/site/billing-pricing/ownership/</loc>
+    <loc>http://localhost:1313/billing-pricing/ownership/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/billing-pricing/ownership/"
+                href="http://localhost:1313/fr/billing-pricing/ownership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/billing-pricing/ownership/"
+                href="http://localhost:1313/billing-pricing/ownership/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/features/linux/</loc>
+    <loc>http://localhost:1313/features/linux/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/features/linux/"
+                href="http://localhost:1313/fr/features/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/features/linux/"
+                href="http://localhost:1313/features/linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/installation/requirments/</loc>
+    <loc>http://localhost:1313/installation/requirments/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/installation/requirments/"
+                href="http://localhost:1313/fr/installation/requirments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/installation/requirments/"
+                href="http://localhost:1313/installation/requirments/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/installation/install/</loc>
+    <loc>http://localhost:1313/installation/install/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/installation/install/"
+                href="http://localhost:1313/fr/installation/install/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/installation/install/"
+                href="http://localhost:1313/installation/install/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/features/mac/</loc>
+    <loc>http://localhost:1313/features/mac/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/features/mac/"
+                href="http://localhost:1313/fr/features/mac/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/features/mac/"
+                href="http://localhost:1313/features/mac/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/billing-pricing/manage/</loc>
+    <loc>http://localhost:1313/billing-pricing/manage/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/billing-pricing/manage/"
+                href="http://localhost:1313/fr/billing-pricing/manage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/billing-pricing/manage/"
+                href="http://localhost:1313/billing-pricing/manage/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/installation/configuration/</loc>
+    <loc>http://localhost:1313/installation/configuration/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/installation/configuration/"
+                href="http://localhost:1313/fr/installation/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/installation/configuration/"
+                href="http://localhost:1313/installation/configuration/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/billing-pricing/bill/</loc>
+    <loc>http://localhost:1313/billing-pricing/bill/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/billing-pricing/bill/"
+                href="http://localhost:1313/fr/billing-pricing/bill/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/billing-pricing/bill/"
+                href="http://localhost:1313/billing-pricing/bill/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/features/routing/</loc>
+    <loc>http://localhost:1313/features/routing/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/features/routing/"
+                href="http://localhost:1313/fr/features/routing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/features/routing/"
+                href="http://localhost:1313/features/routing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/installation/customization/</loc>
+    <loc>http://localhost:1313/installation/customization/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/installation/customization/"
+                href="http://localhost:1313/fr/installation/customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/installation/customization/"
+                href="http://localhost:1313/installation/customization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/billing-pricing/payment/</loc>
+    <loc>http://localhost:1313/billing-pricing/payment/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/billing-pricing/payment/"
+                href="http://localhost:1313/fr/billing-pricing/payment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/billing-pricing/payment/"
+                href="http://localhost:1313/billing-pricing/payment/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/features/ubuntu/</loc>
+    <loc>http://localhost:1313/features/ubuntu/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/features/ubuntu/"
+                href="http://localhost:1313/fr/features/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/features/ubuntu/"
+                href="http://localhost:1313/features/ubuntu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/installation/elements/</loc>
+    <loc>http://localhost:1313/installation/elements/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/installation/elements/"
+                href="http://localhost:1313/fr/installation/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/installation/elements/"
+                href="http://localhost:1313/installation/elements/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/billing-pricing/profile/</loc>
+    <loc>http://localhost:1313/billing-pricing/profile/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/billing-pricing/profile/"
+                href="http://localhost:1313/fr/billing-pricing/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/billing-pricing/profile/"
+                href="http://localhost:1313/billing-pricing/profile/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/features/windows/</loc>
+    <loc>http://localhost:1313/features/windows/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/features/windows/"
+                href="http://localhost:1313/fr/features/windows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/features/windows/"
+                href="http://localhost:1313/features/windows/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/installation/</loc>
+    <loc>http://localhost:1313/installation/</loc>
     <lastmod>2022-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/installation/"
+                href="http://localhost:1313/fr/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/installation/"
+                href="http://localhost:1313/installation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/billing-pricing/</loc>
+    <loc>http://localhost:1313/billing-pricing/</loc>
     <lastmod>2022-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/billing-pricing/"
+                href="http://localhost:1313/fr/billing-pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/billing-pricing/"
+                href="http://localhost:1313/billing-pricing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/features/</loc>
+    <loc>http://localhost:1313/features/</loc>
     <lastmod>2022-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/features/"
+                href="http://localhost:1313/fr/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/features/"
+                href="http://localhost:1313/features/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/faq/"
+                href="http://localhost:1313/fr/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/faq/"
+                href="http://localhost:1313/faq/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/contact/"
+                href="http://localhost:1313/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dot/site/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/dot/site/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dot/site/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

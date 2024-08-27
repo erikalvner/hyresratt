@@ -4,7 +4,7 @@
   "lang": "fr-fr",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "http://localhost:1313/dot/site/?utm_source=web_app_manifest",
+  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
   "background_color": "#f9f9f9",
   "theme_color": "#d38700ff",
 
@@ -20,33 +20,33 @@
   
   "icons": [
     {
-      "src": "/dot/site/images/favicon_hu6047051909649102247.png",
+      "src": "/images/favicon_hu6047051909649102247.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/dot/site/images/favicon_hu12945479042251189547.png",
+      "src": "/images/favicon_hu12945479042251189547.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/dot/site/images/favicon_hu14901002793431132283.png",
+      "src": "/images/favicon_hu14901002793431132283.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/dot/site/images/favicon_hu6243639340119694216.png",
+      "src": "/images/favicon_hu6243639340119694216.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/dot/site/images/favicon_hu16724169917146761539.png",
+      "src": "/images/favicon_hu16724169917146761539.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/dot/site/images/favicon_hu1790636729842826649.png",
+      "src": "/images/favicon_hu1790636729842826649.png",
       "sizes": "512x512",
       "type": "image/png"
     }
