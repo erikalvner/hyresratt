@@ -50,13 +50,13 @@
     <loc>//localhost:1313/forhandling/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/hyreslagen/</loc>
+    <lastmod>2023-01-05T10:42:26+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/uppsagd/</loc>
     <lastmod>2022-12-29T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/brister/</loc>
-    <lastmod>2022-12-28T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/hyreslagen/</loc>
     <lastmod>2022-12-28T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>

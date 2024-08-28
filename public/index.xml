@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>§1 - inledande bestämmelser</title>
+      <link>//localhost:1313/hyreslagen/p01/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/p01/</guid>
+      <description>1 § Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
+    </item>
+    <item>
       <title>Gäller uppsägningen?</title>
       <link>//localhost:1313/uppsagd/galleruppsagningen/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
@@ -37,17 +44,17 @@
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
+      <title>Paragraf 2</title>
+      <link>//localhost:1313/hyreslagen/p02/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/p02/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Manage My Sprint account</title>
       <link>//localhost:1313/brister/manage/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/brister/manage/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Manage My Sprint account</title>
-      <link>//localhost:1313/hyreslagen/manage/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/hyreslagen/manage/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
@@ -62,13 +69,6 @@
       <link>//localhost:1313/brister/bill/</link>
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/brister/bill/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>How to pay your bill</title>
-      <link>//localhost:1313/hyreslagen/bill/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/hyreslagen/bill/</guid>
       <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
