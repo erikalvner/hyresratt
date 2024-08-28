@@ -1,7 +1,7 @@
 ---
 title: "Är något trasigt?"
 date: 2022-12-28T11:02:05+06:00
-icon: "ti-credit-card"
+icon: "ti-support"
 description: "Klicka här om något inte fungerar som det ska och din hyresvärd inte åtgärdar det, har problem med störande grannar eller om lägenheten är för varm eller för kall."
 type : "docs"
 ---

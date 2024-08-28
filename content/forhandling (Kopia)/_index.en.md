@@ -1,7 +1,7 @@
 ---
-title: "Hyreshöjningar och förhandlingar"
+title: "Viktiga datum och tidsfrister"
 date:
-icon: "ti-write"
+icon: "ti-calendar"
 description: "Det här är delen av sajten för dig som undrar vilka lagar och regler som gäller när din hyra höjs."
 type : "docs"
 ---
