@@ -1,9 +1,9 @@
 ---
-title: "Understand the different levels of profile"
-date: 2022-12-29T11:02:05+06:00
-lastmod: 2023-01-05T10:42:26+06:00
+title: "Jag har haft sönder något"
+date: 2024-09-02T11:02:05+06:00
+lastmod: 2024-09-02T10:42:26+06:00
 weight: 5
-draft: false
+draft: true
 # search related keywords
 keywords: [""]
 ---

@@ -24,31 +24,10 @@
     </item>
     <item>
       <title>Jag tror att jag betalar för mycket i hyra</title>
-      <link>//localhost:1313/forhandling-kopia/hoghyra/</link>
-      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/forhandling-kopia/hoghyra/</guid>
-      <description>Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt.</description>
-    </item>
-    <item>
-      <title>Jag tror att jag betalar för mycket i hyra</title>
       <link>//localhost:1313/forhandling/hoghyra/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/forhandling/hoghyra/</guid>
       <description>Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt.</description>
-    </item>
-    <item>
-      <title>Customer instructions for change of ownership</title>
-      <link>//localhost:1313/brister/ownership/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/ownership/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Manage My Sprint account</title>
-      <link>//localhost:1313/brister/manage/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/manage/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>Var är kalendermånad, och varför är det viktigt?</title>
@@ -56,34 +35,6 @@
       <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/uppsagd/kalendermanad/</guid>
       <description>Tre kalendermånader innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte.</description>
-    </item>
-    <item>
-      <title>How to pay your bill</title>
-      <link>//localhost:1313/brister/bill/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/bill/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Payment arrangements</title>
-      <link>//localhost:1313/brister/payment/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/payment/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>//localhost:1313/uppsagd/elements/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/uppsagd/elements/</guid>
-      <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
-    </item>
-    <item>
-      <title>Understand the different levels of profile</title>
-      <link>//localhost:1313/brister/profile/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/brister/profile/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id.</description>
     </item>
     <item>
       <title>inte faq</title>

@@ -22,12 +22,5 @@
       <guid>//localhost:1313/uppsagd/kalendermanad/</guid>
       <description>Tre kalendermånader innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte.</description>
     </item>
-    <item>
-      <title>Elements</title>
-      <link>//localhost:1313/uppsagd/elements/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/uppsagd/elements/</guid>
-      <description>Heading example Here is an example of headings. You can use this heading by the following markdown rules.</description>
-    </item>
   </channel>
 </rss>

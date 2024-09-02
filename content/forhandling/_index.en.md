@@ -27,7 +27,7 @@ Att inte betala den hyra man är skyldig till kan leda till att hyresrätten bli
 
 {{< /collapse >}}
 
-{{< collapse "Min lägenhet omfattas--**inte**--av förhandlingsordning" >}}
+{{< collapse "Min lägenhet omfattas -**inte**- av förhandlingsordning" >}}
 
 Har din lägenhet inte en förhandlingsordning knuten till sig råder avtalsfrihet. Den hyra som du och hyresvärden sist kom överens om är den som gäller. Hyresvärden kan inte ensidigt höja hyran lika lite som du kan sänka den på eget initiativ.
 
