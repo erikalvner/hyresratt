@@ -9,7 +9,7 @@ logo_width = "100px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "hyresl"
+logo_text = "hyresLag"
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -28,9 +28,9 @@ copyright = "erik alvner, 2024"
 
 # contact info
 [contact_info]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+address = "Marmorvägen 9A"
+mobile = ""
+email = "erik@kallmoraberget.com"
 
 # search
 # module - https://github.com/gethugothemes/hugo-modules/tree/master/search
@@ -55,7 +55,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["hyresrätt", "hyreslagen", "hyresjuridik", "hyra"]
 description = "Hyresrätt online"
 author = "Erik Alvner"
 image = "images/favicon.png"      # this image will be used as fallback if a page has no image of its own

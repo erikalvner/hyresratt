@@ -2,11 +2,11 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
 # Title of your website (required).
-title = "hyresl"
+title = "hyreslag"
 # Your theme name
 theme = "dot-hugo"
 
-logo_text = "hyrsl"
+logo_text = "hyrslag"
 
 
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
