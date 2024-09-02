@@ -17,5 +17,5 @@ Har du upptäckt att jag har skrivit någonting som är inkorrekt kan du alltid 
 {{< /collapse >}}
 
 {{< collapse "Mina andra projekt" >}}
-Du får gärna ta en sväng förbi https://kallmoraberget.com/ där jag har min foto-portfölj.
+Du får gärna ta en sväng förbi min [foto-portfölj](https://kallmoraberget.com) eller min [blogg](https://analogriktning.kallmoraberget.com).
 {{< /collapse >}}
