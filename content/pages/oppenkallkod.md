@@ -6,7 +6,7 @@ draft: false
 
 ##### Den här hemsidan är byggd på öppen källkod.
 
-Du hittar hela sajtens [källkod här.](/home/erik/Webbsajter/hyresratt/content/pages/faq.en.md) 
+Du hittar hela sajtens [källkod här.](https://github.com/erikalvner/hyresratt) 
 
 Sajten är byggd i **HUGO** och hosting sker genom GitHub. **HUGO-temat** finner du [här.](https://github.com/gethugothemes/dot-hugo)
 
