@@ -56,8 +56,8 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+description = "Hyresrätt online"
+author = "Erik Alvner"
 image = "images/favicon.png"      # this image will be used as fallback if a page has no image of its own
 
 # site verifications
@@ -86,10 +86,10 @@ link = "https://x.com/erikalvner"
 
 [[social]]
 title = "github"
-icon = "ti-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://github.com/erikalvner"
+icon = "ti-linux" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "/oppenkallkod"
 
 [[social]]
 title = "linkedin"
 icon = "ti-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "www.linkedin.com/in/erik-alvner-b55a292b5"
+link = "https://www.linkedin.com/in/erik-alvner-b55a292b5"
