@@ -1,10 +1,18 @@
 # ------------------------------------------------------------
 # English language
 # ------------------------------------------------------------
+[sv]
+languageName = "sv"
+languageCode = "sv-se"
+weight = 2
+
+# ------------------------------------------------------------
+# English language
+# ------------------------------------------------------------
 [en]
-languageName = "En"
+languageName = "en"
 languageCode = "en-us"
-weight = 1
+weight = 2
 
 # ------------------------------------------------------------
 # French language
@@ -12,4 +20,4 @@ weight = 1
 [fr]
 languageName = "Fr"
 languageCode = "fr-fr"
-weight = 2
+weight = 3

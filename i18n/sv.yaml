@@ -1,0 +1,14 @@
+- id: topics_title
+  translation: Kategorier
+
+- id: send
+  translation: Skicka
+
+- id: search_input_placeholder
+  translation: Skriv här för att söka
+
+- id: no_results_for
+  translation: Inga resultat hittades vid sökning efter
+
+- id: empty_search_results_placeholder
+  translation: Skriv något för att söka

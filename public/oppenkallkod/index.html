@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html
-  lang="en-us"
+  lang="sv-se"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -254,9 +254,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["brister","viktigadatum","forhandling","hyreslagen","uppsagd"];
-  let no_results_for = "No results for";
-  let empty_search_results_placeholder = "Type something to search...";
+  let includeSectionsInSearch = ["pages"];
+  let no_results_for = "0 results for";
+  let empty_search_results_placeholder = "";
 </script>
 
 
@@ -11602,56 +11602,33 @@ iframe.wait-autoplay {
       <div class="collapse navbar-collapse text-center" id="navigation">
         <ul class="navbar-nav ms-auto">
           
-            
-              <li class="nav-item">
-                <a class="nav-link text-dark" href="/">
-                  hem
-                </a>
-              </li>
-            
-          
-            
-              <li class="nav-item">
-                <a class="nav-link text-dark" href="/faq/">
-                  inte faq
-                </a>
-              </li>
-            
-          
-            
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle text-dark"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false">
-                  navigering
-                </a>
-                <div class="dropdown-menu">
-                  
-                    <a class="dropdown-item" href="/forhandling/">
-                      Hyreshöjningar // förhandlingar
-                    </a>
-                  
-                    <a class="dropdown-item" href="/uppsagd/">
-                      Uppsagd
-                    </a>
-                  
-                    <a class="dropdown-item" href="/brister/">
-                      Brister
-                    </a>
-                  
-                    <a class="dropdown-item" href="/hyreslagen/">
-                      Hyreslagen
-                    </a>
-                  
-                </div>
-              </li>
-            
-          
         </ul>
+        
+          <select
+            class="lang-list dark mb-3 mb-md-0"
+            id="select-language"
+            onchange="location = this.value;">
+            
+            
+            
+              
+              
+                
+              
+                
+                  
+                  
+                    <option
+                      id="sv"
+                      value="//localhost:1313/oppenkallkod/"
+                      selected>
+                      sv
+                    </option>
+                  
+                
+              
+            
+          </select>
         
       </div>
     </div>
@@ -11710,12 +11687,12 @@ iframe.wait-autoplay {
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Here" />
+            placeholder="" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search...
+            
           </span>
         </div>
         <div class="search-wrapper-footer">

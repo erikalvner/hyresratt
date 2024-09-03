@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html
-  lang="en-us"
+  lang="sv-se"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -255,9 +255,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["brister","viktigadatum","forhandling","hyreslagen","uppsagd"];
-  let no_results_for = "No results for";
-  let empty_search_results_placeholder = "Type something to search...";
+  let includeSectionsInSearch = ["baskunskaper","hyreslagen","viktigadatum","brister","uppsagd","forhandling","ueb"];
+  let no_results_for = "Inga resultat hittades vid sökning efter";
+  let empty_search_results_placeholder = "Skriv något för att söka";
 </script>
 
 
@@ -11614,7 +11614,7 @@ iframe.wait-autoplay {
             
               <li class="nav-item">
                 <a class="nav-link text-dark" href="/faq/">
-                  inte faq
+                  frågor &amp; svar
                 </a>
               </li>
             
@@ -11648,11 +11648,45 @@ iframe.wait-autoplay {
                       Hyreslagen
                     </a>
                   
+                    <a class="dropdown-item" href="/ueb/">
+                      Privatuthyrningslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/viktigadatum/">
+                      Viktiga datum
+                    </a>
+                  
                 </div>
               </li>
             
           
         </ul>
+        
+          <select
+            class="lang-list dark mb-3 mb-md-0"
+            id="select-language"
+            onchange="location = this.value;">
+            
+            
+            
+              
+              
+                
+              
+                
+                  
+                  
+                    <option
+                      id="sv"
+                      value="//localhost:1313/viktigadatum/"
+                      selected>
+                      sv
+                    </option>
+                  
+                
+              
+            
+          </select>
         
       </div>
     </div>
@@ -11711,12 +11745,12 @@ iframe.wait-autoplay {
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Here" />
+            placeholder="Skriv här för att söka" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search...
+            Skriv något för att söka
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -11807,6 +11841,8 @@ iframe.wait-autoplay {
                 
               
                 
+              
+                
                   
   
   
@@ -11840,6 +11876,8 @@ iframe.wait-autoplay {
               
                 
               
+                
+              
               
                 
               
@@ -11852,7 +11890,10 @@ iframe.wait-autoplay {
           <h2 class="mb-5" id="title">Viktiga datum och tidsfrister</h2>
           
             <div class="content"><h5 id="viktiga-datum-och-tidsfrister">Viktiga datum och tidsfrister</h5>
+<hr>
+<blockquote>
 <p>I spalten till vänster finns länkar till mer ingående information om ämnet. Du kan också söka på sajten genom att trycka <code>ctrl+K</code>.</p>
+</blockquote>
 </div>
           
           <p class="post-meta border-bottom pb-3 mb-0 mt-3">
@@ -11890,6 +11931,76 @@ iframe.wait-autoplay {
                 
                 
                 
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
               
             
                 
@@ -11921,6 +12032,48 @@ iframe.wait-autoplay {
                 
                 
                 
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
                 
                   
               
@@ -12015,18 +12168,18 @@ iframe.wait-autoplay {
             
               <a
                 class="nav nav-prev"
-                href="//localhost:1313/brister/"
+                href="//localhost:1313/hyreslagen/p02/"
                 aria-label="Previous page">
                 <i class="ti-arrow-left me-2"></i>
-                <span class="d-none d-md-block">Är något trasigt?</span>
+                <span class="d-none d-md-block">§2 - lägenhetshyra eller arrende?</span>
               </a>
             
             
               <a
                 class="nav nav-next"
-                href="//localhost:1313/forhandling/"
+                href="//localhost:1313/brister/"
                 aria-label="Previous page">
-                <span class="d-none d-md-block">Hyreshöjningar och förhandlingar</span>
+                <span class="d-none d-md-block">Är något trasigt?</span>
                 <i class="ti-arrow-right ms-2"></i>
               </a>
             

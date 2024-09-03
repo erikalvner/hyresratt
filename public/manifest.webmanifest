@@ -1,7 +1,7 @@
 {
   "name": "hyreslag",
   "short_name": "hyreslag",
-  "lang": "en-us",
+  "lang": "sv-se",
   "display": "fullscreen",
   "orientation" : "portrait",
   "start_url": "//localhost:1313/?utm_source=web_app_manifest",

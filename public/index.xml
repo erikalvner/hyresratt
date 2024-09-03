@@ -5,18 +5,32 @@
     <link>//localhost:1313/</link>
     <description>Recent content on hyreslag</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
+    <language>sv-se</language>
+    <lastBuildDate>Mon, 02 Sep 2024 11:02:05 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>§1 - inledande bestämmelser</title>
+      <title>Hur vet jag?</title>
+      <link>//localhost:1313/baskunskaper/hurvetjag/</link>
+      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/baskunskaper/hurvetjag/</guid>
+      <description>Det är minst sagt inte helt enkelt att avgöra om uthyrningen av ens lägenhet omfattas av privatuthyrningslagen eller inte.</description>
+    </item>
+    <item>
+      <title>Hur vet jag?</title>
+      <link>//localhost:1313/ueb/hurvetjag/</link>
+      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/ueb/hurvetjag/</guid>
+      <description>Det är minst sagt inte helt enkelt att avgöra om uthyrningen av ens lägenhet omfattas av privatuthyrningslagen eller inte.</description>
+    </item>
+    <item>
+      <title>§1 - hyresavtal och lägenheter</title>
       <link>//localhost:1313/hyreslagen/p01/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p01/</guid>
       <description>1 st. Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
     </item>
     <item>
-      <title>Gäller uppsägningen?</title>
+      <title>Gäller uppsägningen? - skriftkravet</title>
       <link>//localhost:1313/uppsagd/galleruppsagningen/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/uppsagd/galleruppsagningen/</guid>
@@ -30,14 +44,42 @@
       <description>Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt.</description>
     </item>
     <item>
-      <title>Var är kalendermånad, och varför är det viktigt?</title>
-      <link>//localhost:1313/uppsagd/kalendermanad/</link>
-      <pubDate>Thu, 29 Dec 2022 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/uppsagd/kalendermanad/</guid>
+      <title>Vad är skillnaden?</title>
+      <link>//localhost:1313/baskunskaper/hurskiljerdetsig/</link>
+      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/baskunskaper/hurskiljerdetsig/</guid>
+      <description>På vilka punkter skiljer sig privatuthyrningslagen från hyreslagen? Antalet skillnader mellan lagarna är inte jättestort.</description>
+    </item>
+    <item>
+      <title>Vad är skillnaden?</title>
+      <link>//localhost:1313/ueb/hurskiljerdetsig/</link>
+      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/ueb/hurskiljerdetsig/</guid>
+      <description>På vilka punkter skiljer sig privatuthyrningslagen från hyreslagen? Antalet skillnader mellan lagarna är inte jättestort.</description>
+    </item>
+    <item>
+      <title>Besittningsskydd (med undantag)</title>
+      <link>//localhost:1313/uppsagd/besittningsskydd/</link>
+      <pubDate>Thu, 29 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/besittningsskydd/</guid>
+      <description>Besittningsskyddet är en grundläggande rättighet som hyresgäster får genom hyreslagen. Det innebär inte att man som hyresgäst inte kan bli uppsagd från sin lägenhet, men det ställer upp regler och ramverk för vad som måste ske för att en hyresvärd ska få säga upp en hyresgäst.</description>
+    </item>
+    <item>
+      <title>§2 - lägenhetshyra eller arrende?</title>
+      <link>//localhost:1313/hyreslagen/p02/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/p02/</guid>
+      <description>1 st. Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
+    </item>
+    <item>
+      <title>Kalendermånad? - Olika typer av uppsägningar</title>
+      <link>//localhost:1313/uppsagd/tvistensart/</link>
+      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/uppsagd/tvistensart/</guid>
       <description>Tre kalendermånader innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte.</description>
     </item>
     <item>
-      <title>inte faq</title>
+      <title>frågor &amp; svar om sajten</title>
       <link>//localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/faq/</guid>
@@ -45,9 +87,9 @@
     </item>
     <item>
       <title>Öppenhet.</title>
-      <link>//localhost:1313/oppenkallkod/</link>
+      <link>//localhost:1313/oppenkallkod.se/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/oppenkallkod/</guid>
+      <guid>//localhost:1313/oppenkallkod.se/</guid>
       <description>Den här hemsidan är byggd på öppen källkod. Du hittar hela sajtens källkod här.</description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html
-  lang="en-us"
+  lang="sv-se"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -255,9 +255,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["brister","viktigadatum","forhandling","hyreslagen","uppsagd"];
-  let no_results_for = "No results for";
-  let empty_search_results_placeholder = "Type something to search...";
+  let includeSectionsInSearch = ["baskunskaper","hyreslagen","viktigadatum","brister","uppsagd","forhandling","ueb"];
+  let no_results_for = "Inga resultat hittades vid sökning efter";
+  let empty_search_results_placeholder = "Skriv något för att söka";
 </script>
 
 
@@ -11614,7 +11614,7 @@ iframe.wait-autoplay {
             
               <li class="nav-item">
                 <a class="nav-link text-dark" href="/faq/">
-                  inte faq
+                  frågor &amp; svar
                 </a>
               </li>
             
@@ -11648,11 +11648,45 @@ iframe.wait-autoplay {
                       Hyreslagen
                     </a>
                   
+                    <a class="dropdown-item" href="/ueb/">
+                      Privatuthyrningslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/viktigadatum/">
+                      Viktiga datum
+                    </a>
+                  
                 </div>
               </li>
             
           
         </ul>
+        
+          <select
+            class="lang-list dark mb-3 mb-md-0"
+            id="select-language"
+            onchange="location = this.value;">
+            
+            
+            
+              
+              
+                
+              
+                
+                  
+                  
+                    <option
+                      id="sv"
+                      value="//localhost:1313/hyreslagen/"
+                      selected>
+                      sv
+                    </option>
+                  
+                
+              
+            
+          </select>
         
       </div>
     </div>
@@ -11711,12 +11745,12 @@ iframe.wait-autoplay {
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Here" />
+            placeholder="Skriv här för att söka" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search...
+            Skriv något för att söka
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -11807,10 +11841,6 @@ iframe.wait-autoplay {
                 
               
                 
-              
-                
-              
-                
                   
   
   
@@ -11849,10 +11879,36 @@ iframe.wait-autoplay {
     
     <li
       data-nav-id="//localhost:1313/hyreslagen/p01/"
-      title="§1 - inledande bestämmelser"
+      title="§1 - hyresavtal och lägenheter"
       class="sidelist ">
       <a href="//localhost:1313/hyreslagen/p01/">
-        §1 - inledande bestämmelser
+        §1 - hyresavtal och lägenheter
+      </a>
+      
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+    <li
+      data-nav-id="//localhost:1313/hyreslagen/p02/"
+      title="§2 - lägenhetshyra eller arrende?"
+      class="sidelist ">
+      <a href="//localhost:1313/hyreslagen/p02/">
+        §2 - lägenhetshyra eller arrende?
       </a>
       
       
@@ -11870,6 +11926,14 @@ iframe.wait-autoplay {
               
                 
               
+                
+              
+                
+              
+                
+              
+                
+              
               
                 
               
@@ -11882,6 +11946,10 @@ iframe.wait-autoplay {
           <h2 class="mb-5" id="title">Hyreslagen</h2>
           
             <div class="content"><p>Här ska info om hyreslagen in</p>
+<hr>
+<blockquote>
+<p>I spalten till vänster finns länkar till mer ingående information om ämnet. Du kan också söka på sajten genom att trycka <code>ctrl+K</code>.</p>
+</blockquote>
 </div>
           
           <p class="post-meta border-bottom pb-3 mb-0 mt-3">
@@ -11919,9 +11987,6 @@ iframe.wait-autoplay {
                 
                 
                 
-              
-            
-                
                   
               
               
@@ -11935,17 +12000,6 @@ iframe.wait-autoplay {
                 
               
             
-                
-                  
-              
-              
-                
-                  
-                
-                
-                
-                
-                
                 
                   
               
@@ -11983,6 +12037,132 @@ iframe.wait-autoplay {
                   
                     
                     
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+                  
+              
+              
+                
                   
                 
                 
@@ -12044,10 +12224,10 @@ iframe.wait-autoplay {
             
               <a
                 class="nav nav-prev"
-                href="//localhost:1313/forhandling/hoghyra/"
+                href="//localhost:1313/baskunskaper/hurskiljerdetsig/"
                 aria-label="Previous page">
                 <i class="ti-arrow-left me-2"></i>
-                <span class="d-none d-md-block">Jag tror att jag betalar för mycket i hyra</span>
+                <span class="d-none d-md-block">Vad är skillnaden?</span>
               </a>
             
             
@@ -12055,7 +12235,7 @@ iframe.wait-autoplay {
                 class="nav nav-next"
                 href="//localhost:1313/hyreslagen/p01/"
                 aria-label="Previous page">
-                <span class="d-none d-md-block">§1 - inledande bestämmelser</span>
+                <span class="d-none d-md-block">§1 - hyresavtal och lägenheter</span>
                 <i class="ti-arrow-right ms-2"></i>
               </a>
             

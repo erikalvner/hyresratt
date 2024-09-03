@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html
-  lang="en-us"
+  lang="sv-se"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head>
@@ -92,6 +92,13 @@
 
 
 
+
+  
+    <link rel="alternate" hreflang="en" href="//localhost:1313/en/" />
+  
+    <link rel="alternate" hreflang="sv" href="//localhost:1313/" />
+  
+  <link rel="alternate" hreflang="x-default" href="//localhost:1313/" />
 
 
 
@@ -253,9 +260,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["brister","viktigadatum","forhandling","hyreslagen","uppsagd"];
-  let no_results_for = "No results for";
-  let empty_search_results_placeholder = "Type something to search...";
+  let includeSectionsInSearch = ["baskunskaper","hyreslagen","viktigadatum","brister","uppsagd","forhandling","ueb"];
+  let no_results_for = "Inga resultat hittades vid sökning efter";
+  let empty_search_results_placeholder = "Skriv något för att söka";
 </script>
 
 
@@ -11673,7 +11680,7 @@ style="background-image: url(/images/banner_hu14980939233017356334.webp); backgr
             
               <li class="nav-item">
                 <a class="nav-link text-dark" href="/faq/">
-                  inte faq
+                  frågor &amp; svar
                 </a>
               </li>
             
@@ -11707,11 +11714,61 @@ style="background-image: url(/images/banner_hu14980939233017356334.webp); backgr
                       Hyreslagen
                     </a>
                   
+                    <a class="dropdown-item" href="/ueb/">
+                      Privatuthyrningslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/viktigadatum/">
+                      Viktiga datum
+                    </a>
+                  
                 </div>
               </li>
             
           
         </ul>
+        
+          <select
+            class="lang-list "
+            id="select-language"
+            onchange="location = this.value;">
+            
+            
+            
+              
+              
+                
+                  
+                  
+                    <option
+                      id="en"
+                      value="//localhost:1313/en/">
+                      en
+                    </option>
+                  
+                
+              
+                
+              
+            
+              
+              
+                
+              
+                
+                  
+                  
+                    <option
+                      id="sv"
+                      value="//localhost:1313/"
+                      selected>
+                      sv
+                    </option>
+                  
+                
+              
+            
+          </select>
         
       </div>
     </div>
@@ -11800,12 +11857,12 @@ style="background-image: url(/images/banner_hu14980939233017356334.webp); backgr
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Here" />
+            placeholder="Skriv här för att söka" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search...
+            Skriv något för att söka
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -11883,18 +11940,32 @@ style="background-image: url(/images/banner_hu14980939233017356334.webp); backgr
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-12 text-center">
-          <h2 class="section-title">Find your answer by subject</h2>
+          <h2 class="section-title">Kategorier</h2>
         </div>
         
         
           <div class="col-lg-4 col-sm-6 mb-4">
             <a
-              href="//localhost:1313/brister/"
+              href="//localhost:1313/baskunskaper/"
               class="px-4 py-5 bg-white shadow text-center d-block">
               
-                <i class="ti-support icon text-primary d-block mb-4"></i>
+                <i class="ti-info-alt icon text-primary d-block mb-4"></i>
               
-              <h3 class="mb-3 mt-0">Är något trasigt?</h3>
+              <h3 class="mb-3 mt-0">Baskunskaper</h3>
+              
+                <p class="mb-0">Under denna kategori samlas allting som inte passar in i de andra kategorierna men ändå krävs för att förstå dem.</p>
+              
+            </a>
+          </div>
+        
+          <div class="col-lg-4 col-sm-6 mb-4">
+            <a
+              href="//localhost:1313/hyreslagen/"
+              class="px-4 py-5 bg-white shadow text-center d-block">
+              
+                <i class="ti-book icon text-primary d-block mb-4"></i>
+              
+              <h3 class="mb-3 mt-0">Hyreslagen</h3>
               
                 <p class="mb-0">Klicka här om något inte fungerar som det ska och din hyresvärd inte åtgärdar det, har problem med störande grannar eller om lägenheten är för varm eller för kall.</p>
               
@@ -11917,26 +11988,12 @@ style="background-image: url(/images/banner_hu14980939233017356334.webp); backgr
         
           <div class="col-lg-4 col-sm-6 mb-4">
             <a
-              href="//localhost:1313/forhandling/"
+              href="//localhost:1313/brister/"
               class="px-4 py-5 bg-white shadow text-center d-block">
               
-                <i class="ti-write icon text-primary d-block mb-4"></i>
+                <i class="ti-support icon text-primary d-block mb-4"></i>
               
-              <h3 class="mb-3 mt-0">Hyreshöjningar och förhandlingar</h3>
-              
-                <p class="mb-0">Det här är delen av sajten för dig som undrar vilka lagar och regler som gäller när din hyra höjs.</p>
-              
-            </a>
-          </div>
-        
-          <div class="col-lg-4 col-sm-6 mb-4">
-            <a
-              href="//localhost:1313/hyreslagen/"
-              class="px-4 py-5 bg-white shadow text-center d-block">
-              
-                <i class="ti-book icon text-primary d-block mb-4"></i>
-              
-              <h3 class="mb-3 mt-0">Hyreslagen</h3>
+              <h3 class="mb-3 mt-0">Är något trasigt?</h3>
               
                 <p class="mb-0">Klicka här om något inte fungerar som det ska och din hyresvärd inte åtgärdar det, har problem med störande grannar eller om lägenheten är för varm eller för kall.</p>
               
@@ -11953,6 +12010,34 @@ style="background-image: url(/images/banner_hu14980939233017356334.webp); backgr
               <h3 class="mb-3 mt-0">Uppsagd?</h3>
               
                 <p class="mb-0">Klicka här om din hyresvärd har hotat om uppsägning eller om det till och med gått så långt att du fått en skriftlig uppsägning.</p>
+              
+            </a>
+          </div>
+        
+          <div class="col-lg-4 col-sm-6 mb-4">
+            <a
+              href="//localhost:1313/forhandling/"
+              class="px-4 py-5 bg-white shadow text-center d-block">
+              
+                <i class="ti-write icon text-primary d-block mb-4"></i>
+              
+              <h3 class="mb-3 mt-0">Hyreshöjningar och förhandlingar</h3>
+              
+                <p class="mb-0">Det här är delen av sajten för dig som undrar vilka lagar och regler som gäller när din hyra höjs.</p>
+              
+            </a>
+          </div>
+        
+          <div class="col-lg-4 col-sm-6 mb-4">
+            <a
+              href="//localhost:1313/ueb/"
+              class="px-4 py-5 bg-white shadow text-center d-block">
+              
+                <i class="ti-id-badge icon text-primary d-block mb-4"></i>
+              
+              <h3 class="mb-3 mt-0">UEB</h3>
+              
+                <p class="mb-0">Hyr du av en privatperson eller väldigt liten hyresvärd? Här är allt om <strong>privatuthyrningslagen.</strong></p>
               
             </a>
           </div>

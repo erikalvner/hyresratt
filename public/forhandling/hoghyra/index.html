@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html
-  lang="en-us"
+  lang="sv-se"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -252,9 +252,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["brister","viktigadatum","forhandling","hyreslagen","uppsagd"];
-  let no_results_for = "No results for";
-  let empty_search_results_placeholder = "Type something to search...";
+  let includeSectionsInSearch = ["brister","ueb","viktigadatum","forhandling","hyreslagen","uppsagd"];
+  let no_results_for = "Inga resultat hittades vid sökning efter";
+  let empty_search_results_placeholder = "Skriv här för att söka";
 </script>
 
 
@@ -11611,7 +11611,7 @@ iframe.wait-autoplay {
             
               <li class="nav-item">
                 <a class="nav-link text-dark" href="/faq/">
-                  inte faq
+                  frågor &amp; svar
                 </a>
               </li>
             
@@ -11645,11 +11645,45 @@ iframe.wait-autoplay {
                       Hyreslagen
                     </a>
                   
+                    <a class="dropdown-item" href="/ueb/">
+                      Privatuthyrningslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/viktigadatum/">
+                      Viktiga datum
+                    </a>
+                  
                 </div>
               </li>
             
           
         </ul>
+        
+          <select
+            class="lang-list dark mb-3 mb-md-0"
+            id="select-language"
+            onchange="location = this.value;">
+            
+            
+            
+              
+              
+                
+              
+                
+                  
+                  
+                    <option
+                      id="sv"
+                      value="//localhost:1313/forhandling/hoghyra/"
+                      selected>
+                      sv
+                    </option>
+                  
+                
+              
+            
+          </select>
         
       </div>
     </div>
@@ -11708,12 +11742,12 @@ iframe.wait-autoplay {
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Here" />
+            placeholder="Skriv här för att söka" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search...
+            Skriv här för att söka
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -11800,6 +11834,8 @@ iframe.wait-autoplay {
               aria-label="back"></a>
             <ul class="list-styled">
               
+              
+                
               
                 
               
@@ -11965,6 +12001,48 @@ iframe.wait-autoplay {
                 
                 
                 
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
               
             
                 
@@ -12026,6 +12104,20 @@ iframe.wait-autoplay {
               
             
                 
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
               
             
                 
@@ -12039,6 +12131,20 @@ iframe.wait-autoplay {
                 
                 
                 
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
                 
                   
               

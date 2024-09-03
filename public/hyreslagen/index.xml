@@ -5,14 +5,21 @@
     <link>//localhost:1313/hyreslagen/</link>
     <description>Recent content in Hyreslagen on hyreslag</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>sv-se</language>
     <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/hyreslagen/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>§1 - inledande bestämmelser</title>
+      <title>§1 - hyresavtal och lägenheter</title>
       <link>//localhost:1313/hyreslagen/p01/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p01/</guid>
+      <description>1 st. Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
+    </item>
+    <item>
+      <title>§2 - lägenhetshyra eller arrende?</title>
+      <link>//localhost:1313/hyreslagen/p02/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/p02/</guid>
       <description>1 st. Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
     </item>
   </channel>

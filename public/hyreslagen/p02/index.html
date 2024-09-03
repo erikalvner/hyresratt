@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html
-  lang="en-us"
+  lang="sv-se"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -82,7 +82,7 @@
   
 
 
-<title>Paragraf 2</title>
+<title>§2 - lägenhetshyra eller arrende?</title>
 
 
 
@@ -105,11 +105,11 @@
 
 <meta
   name="description"
-  content="This is meta description" />
+  content="Hyresrätt online" />
 
 
 
-  <meta name="author" content="Themefisher" />
+  <meta name="author" content="Erik Alvner" />
 
 
 
@@ -182,14 +182,14 @@
 
 
 
-<meta property="og:title" content="Paragraf 2" />
-<meta property="og:description" content="This is meta description" />
+<meta property="og:title" content="§2 - lägenhetshyra eller arrende?" />
+<meta property="og:description" content="Hyresrätt online" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="//localhost:1313/hyreslagen/p02/" />
 
 
-<meta name="twitter:title" content="Paragraf 2" />
-<meta name="twitter:description" content="This is meta description" />
+<meta name="twitter:title" content="§2 - lägenhetshyra eller arrende?" />
+<meta name="twitter:description" content="Hyresrätt online" />
 
 
 
@@ -252,9 +252,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["forhandling","hyreslagen","uppsagd","brister"];
-  let no_results_for = "No results for";
-  let empty_search_results_placeholder = "Type something to search...";
+  let includeSectionsInSearch = ["baskunskaper","hyreslagen","viktigadatum","brister","uppsagd","forhandling","ueb"];
+  let no_results_for = "Inga resultat hittades vid sökning efter";
+  let empty_search_results_placeholder = "Skriv något för att söka";
 </script>
 
 
@@ -11582,7 +11582,7 @@ iframe.wait-autoplay {
     <div class="container px-2 px-md-0">
       <a class="navbar-brand px-2" href="/">
         
-          hyresl
+          hyresLag
         
       </a>
       <button
@@ -11611,7 +11611,7 @@ iframe.wait-autoplay {
             
               <li class="nav-item">
                 <a class="nav-link text-dark" href="/faq/">
-                  inte faq
+                  frågor &amp; svar
                 </a>
               </li>
             
@@ -11645,11 +11645,45 @@ iframe.wait-autoplay {
                       Hyreslagen
                     </a>
                   
+                    <a class="dropdown-item" href="/ueb/">
+                      Privatuthyrningslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/viktigadatum/">
+                      Viktiga datum
+                    </a>
+                  
                 </div>
               </li>
             
           
         </ul>
+        
+          <select
+            class="lang-list dark mb-3 mb-md-0"
+            id="select-language"
+            onchange="location = this.value;">
+            
+            
+            
+              
+              
+                
+              
+                
+                  
+                  
+                    <option
+                      id="sv"
+                      value="//localhost:1313/hyreslagen/p02/"
+                      selected>
+                      sv
+                    </option>
+                  
+                
+              
+            
+          </select>
         
       </div>
     </div>
@@ -11708,12 +11742,12 @@ iframe.wait-autoplay {
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Here" />
+            placeholder="Skriv här för att söka" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search...
+            Skriv något för att söka
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -11840,10 +11874,10 @@ iframe.wait-autoplay {
     
     <li
       data-nav-id="//localhost:1313/hyreslagen/p01/"
-      title="§1 - inledande bestämmelser"
+      title="§1 - hyresavtal och lägenheter"
       class="sidelist ">
       <a href="//localhost:1313/hyreslagen/p01/">
-        §1 - inledande bestämmelser
+        §1 - hyresavtal och lägenheter
       </a>
       
       
@@ -11866,64 +11900,12 @@ iframe.wait-autoplay {
     
     <li
       data-nav-id="//localhost:1313/hyreslagen/p02/"
-      title="Paragraf 2"
+      title="§2 - lägenhetshyra eller arrende?"
       class="sidelist 
         active
       ">
       <a href="//localhost:1313/hyreslagen/p02/">
-        Paragraf 2
-      </a>
-      
-      
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-    <li
-      data-nav-id="//localhost:1313/hyreslagen/payment/"
-      title="Payment arrangements"
-      class="sidelist ">
-      <a href="//localhost:1313/hyreslagen/payment/">
-        Payment arrangements
-      </a>
-      
-      
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-    <li
-      data-nav-id="//localhost:1313/hyreslagen/profile/"
-      title="Understand the different levels of profile"
-      class="sidelist ">
-      <a href="//localhost:1313/hyreslagen/profile/">
-        Understand the different levels of profile
+        §2 - lägenhetshyra eller arrende?
       </a>
       
       
@@ -11943,6 +11925,14 @@ iframe.wait-autoplay {
               
                 
               
+                
+              
+                
+              
+                
+              
+              
+                
               
             </ul>
           </div>
@@ -11950,37 +11940,100 @@ iframe.wait-autoplay {
       </div>
       <div class="col-lg-8 col-xl-9">
         <div class="p-lg-5 p-4 bg-white" id="content">
-          <h2 class="mb-5" id="title">Paragraf 2</h2>
+          <h2 class="mb-5" id="title">§2 - lägenhetshyra eller arrende?</h2>
           
-            <div class="bg-light p-4">
-              <ul class="page-list">
-                
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-    <li
-      data-nav-id="//localhost:1313/hyreslagen/p02/"
-      title="Paragraf 2"
-      class="sidelist 
-        active
-      ">
-      <a href="//localhost:1313/hyreslagen/p02/">
-        Paragraf 2
-      </a>
-      
-      
-    </li>
-  
+            <div class="content"><h6 id="1-st"><strong>1 st.</strong></h6>
+<p>Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning. Detta gäller även om lägenheten upplåtits genom tjänsteavtal eller avtal i anslutning till sådant avtal.</p>
+<div class="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header my-0" id="title-vad-%C3%A4r-hyra">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-a8306f1b9277b27c2a39b92e2505010f63610670" aria-expanded="false" aria-controls="a8306f1b9277b27c2a39b92e2505010f63610670"> Vad är hyra?</button>
+    </h2>
+    <div id="collapse-a8306f1b9277b27c2a39b92e2505010f63610670" class="accordion-collapse collapse" aria-labelledby="title-vad-%C3%A4r-hyra">
+      <div class="accordion-body">Första paragrafen inleds med att göra det klart att bestämmelserna i hyreslagen gäller för hus och lägenheter och delar av hus som hyrs ut. Det gäller också personalbostäder.</div>
+    </div>
+  </div>
+</div>
 
-              </ul>
-            </div>
+<h6 id="2-st"><strong>2 st.</strong></h6>
+<p>Innefattar avtalet även upplåtelse av jord att nyttjas tillsammans med lägenheten, ska detta kapitel tillämpas på avtalet, om jorden ska användas för trädgårdsodling i mindre omfattning eller för annat ändamål än jordbruk. Förenas ett tjänsteavtal, som inte är av ringa betydelse, med upplåtelse av såväl lägenhet för bostadsändamål som jord, ska kapitlet tillämpas, om upplåtelsen av lägenheten är mera betydelsefull än upplåtelsen av jorden.</p>
+<div class="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header my-0" id="title-">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-da39a3ee5e6b4b0d3255bfef95601890afd80709" aria-expanded="false" aria-controls="da39a3ee5e6b4b0d3255bfef95601890afd80709"> </button>
+    </h2>
+    <div id="collapse-da39a3ee5e6b4b0d3255bfef95601890afd80709" class="accordion-collapse collapse" aria-labelledby="title-">
+      <div class="accordion-body">Här markeras var gränsen mellan ett så kallat jordbruksarrende och en hyreslägenhet är. Både i vanliga avtal och i personalavtal får jord medfölja (exempelvis vid uthyrning av en villa), men det får inte vara så pass myket och sådan jord som används för jordbruk.</div>
+    </div>
+  </div>
+</div>
+
+<h6 id="3-st"><strong>3 st.</strong></h6>
+<p>Med bostadslägenhet avses lägenhet som upplåtits för att helt eller till en inte oväsentlig del användas som bostad. Med lokal avses annan lägenhet än bostadslägenhet.</p>
+<div class="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header my-0" id="title-bostadsl%C3%A4genhet-eller-lokal">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9a9743ec07e35c1622425fa5d3711d765be030c3" aria-expanded="false" aria-controls="9a9743ec07e35c1622425fa5d3711d765be030c3"> Bostadslägenhet eller lokal?</button>
+    </h2>
+    <div id="collapse-9a9743ec07e35c1622425fa5d3711d765be030c3" class="accordion-collapse collapse" aria-labelledby="title-bostadsl%C3%A4genhet-eller-lokal">
+      <div class="accordion-body">I lagens mening är en <em>&ldquo;lägenhet&rdquo;</em> någonting som har omslutande väggar och tak. I det här stycket avgränsas vad som räknas som just <em>bostads</em>lägenhet. För att det ska räknas som bostadslägenhet måste den ha &ldquo;upplåtits för att&rdquo; användas som bostad. Det är alltså vad syftet är när man ingår själva hyresavtalet som spelar roll. Börjar du hyra någonting som lokal och sedan flyttar in i den blir det alltså inte en bostadslägenhet, eftersom syftet från början var att använda det som lokal.</div>
+    </div>
+  </div>
+</div>
+
+<h6 id="4-st">4 st.</h6>
+<p>Det som föreskrivs i detta kapitel om sambor gäller endast sådana samboförhållanden där ingen av samborna är gift.</p>
+<div class="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header my-0" id="title-samboskap">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-270f2f543b3061913e2c47b7a5ab62d39f5052d3" aria-expanded="false" aria-controls="270f2f543b3061913e2c47b7a5ab62d39f5052d3"> Samboskap</button>
+    </h2>
+    <div id="collapse-270f2f543b3061913e2c47b7a5ab62d39f5052d3" class="accordion-collapse collapse" aria-labelledby="title-samboskap">
+      <div class="accordion-body">Det här stycket meddelar bara att de med &ldquo;samboförhållande&rdquo; inte menar äkta makar som bor tillsammans.</div>
+    </div>
+  </div>
+</div>
+
+<h6 id="5-st">5 st.</h6>
+<p>Förbehåll som strider mot en bestämmelse i detta kapitel är utan verkan mot hyresgästen eller den som har rätt att träda i hans eller hennes ställe, om inte annat anges.</p>
+<div class="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header my-0" id="title-dispositiva-regler-tvingande-best%C3%A4mmelser">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-03a5a2d2873c0f6a57c27efb049a784ca9bb4eb8" aria-expanded="false" aria-controls="03a5a2d2873c0f6a57c27efb049a784ca9bb4eb8"> Dispositiva regler - tvingande bestämmelser</button>
+    </h2>
+    <div id="collapse-03a5a2d2873c0f6a57c27efb049a784ca9bb4eb8" class="accordion-collapse collapse" aria-labelledby="title-dispositiva-regler-tvingande-best%C3%A4mmelser">
+      <div class="accordion-body">I juridik finns det något som heter &ldquo;dispositiva&rdquo; bestämmelser. Dispositiva bestämmelser går att avtala bort. Den här paragrafen innebär att ingen bestämmelse i den här lagen går att avtala bort, om det inte framgår av lagen att det går.</div>
+    </div>
+  </div>
+</div>
+
+<h6 id="6st">6st.</h6>
+<p>Omfattar hyresavtalet minst tre bostadslägenheter, som hyresgästen ska hyra ut i andra hand eller upplåta med kooperativ hyresrätt, får parterna avtala om förbehåll som strider mot det som sägs i detta kapitel om sådana lägenheter, under förutsättning att förbehållet inte strider mot bestäm- melserna om lokaler och inte heller avser rätten till förlängning av avtalet eller grunderna för fastställande av hyresvillkoren i samband med sådan förlängning. Ett sådant förbehåll gäller endast om det godkänts av hyresnämnden. Godkännande behövs dock inte om staten, en kommun, en region eller ett kommunalförbund är hyresvärd.</p>
+<div class="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header my-0" id="title-blockuthyrning">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4485dc9eecb1b42da295df3e9c9691a3f2274810" aria-expanded="false" aria-controls="4485dc9eecb1b42da295df3e9c9691a3f2274810"> Blockuthyrning</button>
+    </h2>
+    <div id="collapse-4485dc9eecb1b42da295df3e9c9691a3f2274810" class="accordion-collapse collapse" aria-labelledby="title-blockuthyrning">
+      <div class="accordion-body">lorem ipsum</div>
+    </div>
+  </div>
+</div>
+
+<h6 id="7-st">7 st.</h6>
+<p>I lagen (2012:978) om uthyrning av egen bostad finns särskilda bestämmelser om upplåtelse av bostadslägenhet i vissa fall. Lag (2019:840).</p>
+<div class="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header my-0" id="title-privatuthyrningslagen">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6af95ca992c2b522e25910baadd547b8c3c4c135" aria-expanded="false" aria-controls="6af95ca992c2b522e25910baadd547b8c3c4c135"> Privatuthyrningslagen</button>
+    </h2>
+    <div id="collapse-6af95ca992c2b522e25910baadd547b8c3c4c135" class="accordion-collapse collapse" aria-labelledby="title-privatuthyrningslagen">
+      <div class="accordion-body">Vissa undantag från hyreslagens bestämmelser görs i lagen om uthyrning av egen bostad. Den kallas ofta privatuthyrningslagen och</div>
+    </div>
+  </div>
+</div>
+
+</div>
           
           <p class="post-meta border-bottom pb-3 mb-0 mt-3">
             Updated on
@@ -12031,6 +12084,20 @@ iframe.wait-autoplay {
               
             
                 
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
               
             
                 
@@ -12078,6 +12145,9 @@ iframe.wait-autoplay {
               
             
                 
+              
+            
+                
                   
               
               
@@ -12109,9 +12179,6 @@ iframe.wait-autoplay {
               
             
                 
-              
-            
-                
                   
               
               
@@ -12193,17 +12260,6 @@ iframe.wait-autoplay {
               
             
                 
-                  
-              
-              
-                
-                  
-                
-                
-                
-                
-                
-                
               
             
                 
@@ -12217,9 +12273,6 @@ iframe.wait-autoplay {
                 
                 
                 
-                
-              
-            
                 
                   
               
@@ -12261,15 +12314,15 @@ iframe.wait-autoplay {
                 href="//localhost:1313/hyreslagen/p01/"
                 aria-label="Previous page">
                 <i class="ti-arrow-left me-2"></i>
-                <span class="d-none d-md-block">§1 - inledande bestämmelser</span>
+                <span class="d-none d-md-block">§1 - hyresavtal och lägenheter</span>
               </a>
             
             
               <a
                 class="nav nav-next"
-                href="//localhost:1313/hyreslagen/payment/"
+                href="//localhost:1313/viktigadatum/"
                 aria-label="Previous page">
-                <span class="d-none d-md-block">Payment arrangements</span>
+                <span class="d-none d-md-block">Viktiga datum och tidsfrister</span>
                 <i class="ti-arrow-right ms-2"></i>
               </a>
             
@@ -12317,17 +12370,17 @@ iframe.wait-autoplay {
             <li class="list-inline-item">
               <a
                 class="text-color d-inline-block p-2"
-                href="https://github.com/erikalvner"
+                href="/oppenkallkod"
                 aria-label="">
                 <span class="visually-hidden">github</span>
-                <i class="ti-github"></i>
+                <i class="ti-linux"></i>
               </a>
             </li>
           
             <li class="list-inline-item">
               <a
                 class="text-color d-inline-block p-2"
-                href="www.linkedin.com/in/erik-alvner-b55a292b5"
+                href="https://www.linkedin.com/in/erik-alvner-b55a292b5"
                 aria-label="">
                 <span class="visually-hidden">linkedin</span>
                 <i class="ti-linkedin"></i>

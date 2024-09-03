@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uppsagd? on hyreslag</title>
+    <link>//localhost:1313/en/uppsagd/</link>
+    <description>Recent content in Uppsagd? on hyreslag</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Sep 2024 11:02:05 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/en/uppsagd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gäller uppsägningen? - skriftkravet</title>
+      <link>//localhost:1313/en/uppsagd/galleruppsagningen/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/en/uppsagd/galleruppsagningen/</guid>
+      <description>För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.</description>
+    </item>
+    <item>
+      <title>Besittningsskydd (med undantag)</title>
+      <link>//localhost:1313/en/uppsagd/besittningsskydd/</link>
+      <pubDate>Thu, 29 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/en/uppsagd/besittningsskydd/</guid>
+      <description>Besittningsskyddet är en grundläggande rättighet som hyresgäster får genom hyreslagen. Det innebär inte att man som hyresgäst inte kan bli uppsagd från sin lägenhet, men det ställer upp regler och ramverk för vad som måste ske för att en hyresvärd ska få säga upp en hyresgäst.</description>
+    </item>
+    <item>
+      <title>Kalendermånad? - Olika typer av uppsägningar</title>
+      <link>//localhost:1313/en/uppsagd/tvistensart/</link>
+      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/en/uppsagd/tvistensart/</guid>
+      <description>Tre kalendermånader innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte.</description>
+    </item>
+  </channel>
+</rss>

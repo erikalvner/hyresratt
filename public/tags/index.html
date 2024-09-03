@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html
-  lang="en-us"
+  lang="sv-se"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -91,6 +91,13 @@
 
 
 
+
+  
+    <link rel="alternate" hreflang="sv" href="//localhost:1313/tags/" />
+  
+    <link rel="alternate" hreflang="en" href="//localhost:1313/en/tags/" />
+  
+  <link rel="alternate" hreflang="x-default" href="//localhost:1313/tags/" />
 
 
 
@@ -252,9 +259,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["brister","viktigadatum","forhandling","hyreslagen","uppsagd"];
-  let no_results_for = "No results for";
-  let empty_search_results_placeholder = "Type something to search...";
+  let includeSectionsInSearch = ["baskunskaper","hyreslagen","viktigadatum","brister","uppsagd","forhandling","ueb"];
+  let no_results_for = "Inga resultat hittades vid sökning efter";
+  let empty_search_results_placeholder = "Skriv något för att söka";
 </script>
 
 
@@ -11611,7 +11618,7 @@ iframe.wait-autoplay {
             
               <li class="nav-item">
                 <a class="nav-link text-dark" href="/faq/">
-                  inte faq
+                  frågor &amp; svar
                 </a>
               </li>
             
@@ -11645,11 +11652,61 @@ iframe.wait-autoplay {
                       Hyreslagen
                     </a>
                   
+                    <a class="dropdown-item" href="/ueb/">
+                      Privatuthyrningslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/viktigadatum/">
+                      Viktiga datum
+                    </a>
+                  
                 </div>
               </li>
             
           
         </ul>
+        
+          <select
+            class="lang-list dark mb-3 mb-md-0"
+            id="select-language"
+            onchange="location = this.value;">
+            
+            
+            
+              
+              
+                
+              
+                
+                  
+                  
+                    <option
+                      id="sv"
+                      value="//localhost:1313/tags/"
+                      selected>
+                      sv
+                    </option>
+                  
+                
+              
+            
+              
+              
+                
+                  
+                  
+                    <option
+                      id="en"
+                      value="//localhost:1313/en/tags/">
+                      en
+                    </option>
+                  
+                
+              
+                
+              
+            
+          </select>
         
       </div>
     </div>
@@ -11708,12 +11765,12 @@ iframe.wait-autoplay {
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Here" />
+            placeholder="Skriv här för att söka" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search...
+            Skriv något för att söka
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -11811,6 +11868,10 @@ iframe.wait-autoplay {
               
                 
               
+                
+              
+                
+              
               
             </ul>
           </div>
@@ -11883,6 +11944,76 @@ iframe.wait-autoplay {
                 
                 
                 
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
               
             
                 
@@ -11910,6 +12041,48 @@ iframe.wait-autoplay {
                 
                 
                 
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
+                
+                  
+              
+              
+                
+                  
+                
+                
+                
+                
+                
+                
+              
+            
                 
                   
               
@@ -12005,9 +12178,9 @@ iframe.wait-autoplay {
             
               <a
                 class="nav nav-next"
-                href="//localhost:1313/brister/"
+                href="//localhost:1313/baskunskaper/"
                 aria-label="Previous page">
-                <span class="d-none d-md-block">Är något trasigt?</span>
+                <span class="d-none d-md-block">Baskunskaper</span>
                 <i class="ti-arrow-right ms-2"></i>
               </a>
             
