@@ -6,7 +6,14 @@
     <description>Recent content in Viktiga datum och tidsfrister on hyreslag</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/viktigadatum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inflytt</title>
+      <link>//localhost:1313/viktigadatum/inflytt/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/viktigadatum/inflytt/</guid>
+      <description>Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt.</description>
+    </item>
   </channel>
 </rss>

@@ -254,9 +254,9 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["pages"];
-  let no_results_for = "0 results for";
-  let empty_search_results_placeholder = "";
+  let includeSectionsInSearch = ["baskunskaper","hyreslagen","viktigadatum","brister","uppsagd","forhandling","ueb"];
+  let no_results_for = "Inga resultat hittades vid sökning efter";
+  let empty_search_results_placeholder = "Skriv något för att söka";
 </script>
 
 
@@ -11602,33 +11602,64 @@ iframe.wait-autoplay {
       <div class="collapse navbar-collapse text-center" id="navigation">
         <ul class="navbar-nav ms-auto">
           
+            
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="/">
+                  hem
+                </a>
+              </li>
+            
+          
+            
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="/faq/">
+                  frågor &amp; svar
+                </a>
+              </li>
+            
+          
+            
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle text-dark"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false">
+                  navigering
+                </a>
+                <div class="dropdown-menu">
+                  
+                    <a class="dropdown-item" href="/forhandling/">
+                      Hyreshöjningar // förhandlingar
+                    </a>
+                  
+                    <a class="dropdown-item" href="/uppsagd/">
+                      Uppsagd
+                    </a>
+                  
+                    <a class="dropdown-item" href="/brister/">
+                      Brister
+                    </a>
+                  
+                    <a class="dropdown-item" href="/hyreslagen/">
+                      Hyreslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/ueb/">
+                      Privatuthyrningslagen
+                    </a>
+                  
+                    <a class="dropdown-item" href="/viktigadatum/">
+                      Viktiga datum
+                    </a>
+                  
+                </div>
+              </li>
+            
+          
         </ul>
-        
-          <select
-            class="lang-list dark mb-3 mb-md-0"
-            id="select-language"
-            onchange="location = this.value;">
-            
-            
-            
-              
-              
-                
-              
-                
-                  
-                  
-                    <option
-                      id="sv"
-                      value="//localhost:1313/oppenkallkod/"
-                      selected>
-                      sv
-                    </option>
-                  
-                
-              
-            
-          </select>
         
       </div>
     </div>
@@ -11687,12 +11718,12 @@ iframe.wait-autoplay {
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="" />
+            placeholder="Skriv här för att söka" />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            
+            Skriv något för att söka
           </span>
         </div>
         <div class="search-wrapper-footer">

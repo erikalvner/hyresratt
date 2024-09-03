@@ -1,10 +1,10 @@
 ---
-title: "Jag tror att jag betalar för mycket i hyra"
+title: "Inflytt"
 date: 2024-08-27T11:02:05+06:00
 lastmod: 2024-08-27T10:42:26+06:00
 weight: 1
-draft: true
-keywords: ["höjning hyreshöjning höjd ökad mer hyra dyr dyra dyrt"]
+draft: false
+keywords: ["flytta", "in", "första", "flytta in"]
 ---
 Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt. I Sverige råder inte marknadshyror, utan hyressättningssystemet bygger istället på något som heter bruksvärde.
 

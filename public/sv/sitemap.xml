@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/baskunskaper/hurvetjag/</loc>
+    <lastmod>2024-09-02T11:02:05+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/ueb/hurvetjag/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/baskunskaper/</loc>
+    <lastmod>2024-09-01T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/en/baskunskaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv-se"
+                href="//localhost:1313/baskunskaper/"
+                />
   </url><url>
     <loc>//localhost:1313/hyreslagen/p01/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
@@ -13,6 +29,19 @@
   </url><url>
     <loc>//localhost:1313/forhandling/hoghyra/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/baskunskaper/hurskiljerdetsig/</loc>
+    <lastmod>2024-09-02T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/en/baskunskaper/hurskiljerdetsig/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv-se"
+                href="//localhost:1313/baskunskaper/hurskiljerdetsig/"
+                />
   </url><url>
     <loc>//localhost:1313/ueb/hurskiljerdetsig/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
@@ -33,24 +62,23 @@
     <loc>//localhost:1313/hyreslagen/p02/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/hyreslagen/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/uppsagd/tvistensart/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-09-02T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv-se"
-                href="//localhost:1313/"
-                />
+    <loc>//localhost:1313/viktigadatum/</loc>
+    <lastmod>2024-09-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/brister/</loc>
     <lastmod>2024-09-01T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/uppsagd/</loc>
+    <lastmod>2022-12-29T11:02:05+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/forhandling/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/ueb/</loc>
     <lastmod>2024-09-01T00:00:00+02:00</lastmod>
@@ -65,17 +93,18 @@
                 href="//localhost:1313/ueb/"
                 />
   </url><url>
-    <loc>//localhost:1313/viktigadatum/</loc>
-    <lastmod>2024-09-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/forhandling/</loc>
-    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/hyreslagen/</loc>
-    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/uppsagd/</loc>
-    <lastmod>2022-12-29T11:02:05+06:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-09-02T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv-se"
+                href="//localhost:1313/"
+                />
   </url><url>
     <loc>//localhost:1313/categories/</loc>
     <xhtml:link
@@ -103,6 +132,6 @@
                 href="//localhost:1313/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/oppenkallkod.se/</loc>
+    <loc>//localhost:1313/oppenkallkod/</loc>
   </url>
 </urlset>
