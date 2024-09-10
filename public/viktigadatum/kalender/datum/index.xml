@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datum on hyreslag</title>
+    <link>//localhost:1313/viktigadatum/kalender/datum/</link>
+    <description>Recent content in Datum on hyreslag</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/viktigadatum/kalender/datum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flytta in</title>
+      <link>//localhost:1313/viktigadatum/kalender/datum/001inflytt/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/viktigadatum/kalender/datum/001inflytt/</guid>
+      <description>&lt;p&gt;Som huvudregel säger man upp sitt eget hyresavtal med en uppsägningstid om tre kalendermånader. Under den perioden är hyresgästen skyldig att &lt;strong&gt;låta&lt;/strong&gt; lägenheten visas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flytta ut</title>
+      <link>//localhost:1313/viktigadatum/kalender/datum/002utflytt/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/viktigadatum/kalender/datum/002utflytt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Säg upp parkeringsplats</title>
+      <link>//localhost:1313/viktigadatum/kalender/datum/003makulerapark/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/viktigadatum/kalender/datum/003makulerapark/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

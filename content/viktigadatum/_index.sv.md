@@ -8,9 +8,9 @@ weight: 3
 ---
 ##### Viktiga datum och tidsfrister
 
-
+I den här sektionen av hemsidan är tanken att jag skall lägga in datum som kan vara viktiga. Upplägget kommer vara som så att det finns en underrubrik på den här sidan för viktiga datum och en annan underrubrik för tidsfrister. Under de meny-valen hittar ni sen relevant information.
 
 
 ---
 
->I spalten till vänster finns länkar till mer ingående information om ämnet. Du kan också söka på sajten genom att trycka `ctrl+K`.
+>I den här sidans meny finns länkar till mer ingående information om ämnet. Du kan också söka på sajten genom att trycka `ctrl+K`.

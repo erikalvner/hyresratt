@@ -10,122 +10,129 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Besittningsskydd</title>
-      <link>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/001besittningsskydd/</link>
+      <link>//localhost:1313/baskunskaper/002hlgrund/skydd/001besittningsskydd/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/001besittningsskydd/</guid>
-      <description>Vad innebär det? Introduktion Som jag gick igenom i överkategorin Hyreslagen - tolka rätt brukar man säga att hyreslagen är en skyddslagstiftning.</description>
+      <guid>//localhost:1313/baskunskaper/002hlgrund/skydd/001besittningsskydd/</guid>
+      <description>&lt;h4 id=&#34;vad-innebär-det&#34;&gt;Vad innebär det?&lt;/h4&gt;&#xA;&lt;h5 id=&#34;introduktion&#34;&gt;Introduktion&lt;/h5&gt;&#xA;&lt;p&gt;Som jag gick igenom i överkategorin &lt;a href=&#34;//localhost:1313/baskunskaper/002hlgrund&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;Hyreslagen - tolka rätt&lt;/a&gt;&#xA; brukar man säga att hyreslagen är en skyddslagstiftning. Syftet med en skyddslagstiftning är, kanske inte så förvånande, att skydda någon eller något från någon eller något annat som bildligt talat har &amp;ldquo;större muskler&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hur vet jag?</title>
       <link>//localhost:1313/ueb/hurvetjag/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/ueb/hurvetjag/</guid>
-      <description>Det är minst sagt inte helt enkelt att avgöra om uthyrningen av ens lägenhet omfattas av privatuthyrningslagen eller inte.</description>
+      <description>&lt;p&gt;Det är minst sagt inte helt enkelt att avgöra om uthyrningen av ens lägenhet omfattas av privatuthyrningslagen eller inte. Reglerna är väldigt tydliga, men det kan vara väldigt svårt som hyresgäst att avgöra eller få reda på vissa mycket betydelsefulla delar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Juridiska grundkoncept</title>
       <link>//localhost:1313/baskunskaper/001juridiskagrunder/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/baskunskaper/001juridiskagrunder/</guid>
-      <description>Extremt grundläggande juridik </description>
+      <description>&lt;h5 id=&#34;extremt-grundläggande-juridik&#34;&gt;&lt;strong&gt;Extremt&lt;/strong&gt; grundläggande juridik&lt;/h5&gt;&#xA;&lt;p&gt;Tanken är att ge dig som läser detta en bas att stå på för att själv kunna läsa lite lagtext och tolka den på rätt sätt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>§ 1 - hyresavtal och lägenheter</title>
       <link>//localhost:1313/hyreslagen/p001/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p001/</guid>
-      <description>1 st. Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
+      <description>&lt;h6 id=&#34;1-st&#34;&gt;&lt;strong&gt;1 st.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning. Detta gäller även om lägenheten upplåtits genom tjänsteavtal eller avtal i anslutning till sådant avtal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flytta in</title>
+      <link>//localhost:1313/viktigadatum/kalender/datum/001inflytt/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/viktigadatum/kalender/datum/001inflytt/</guid>
+      <description>&lt;p&gt;Som huvudregel säger man upp sitt eget hyresavtal med en uppsägningstid om tre kalendermånader. Under den perioden är hyresgästen skyldig att &lt;strong&gt;låta&lt;/strong&gt; lägenheten visas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gäller uppsägningen? - skriftkravet</title>
       <link>//localhost:1313/uppsagd/galleruppsagningen/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/uppsagd/galleruppsagningen/</guid>
-      <description>För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.</description>
-    </item>
-    <item>
-      <title>Inflytt</title>
-      <link>//localhost:1313/viktigadatum/inflytt/</link>
-      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/viktigadatum/inflytt/</guid>
-      <description></description>
+      <description>&lt;h4 id=&#34;för-att-veta-om-din-uppsägning-är-giltig-eller-inte-måste-vi-reda-ut-några-saker&#34;&gt;För att veta om din uppsägning är giltig eller inte måste vi reda ut några saker.&lt;/h4&gt;&#xA;&lt;h6 id=&#34;uppsägningen-måste-alltid-prövas-rättsligt-innan-den-gäller&#34;&gt;Uppsägningen måste alltid prövas rättsligt innan den gäller&lt;/h6&gt;&#xA;&lt;p&gt;&lt;strong&gt;Det finns mycket regler runt uppsägningar. Om en hyresvärd skickar en uppsägning betyder det inte att man måste flytta ut. Uppsägningen måste alltid prövas rättsligt om hyresgästen har besittningsskydd.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jag tror att jag betalar för mycket i hyra</title>
       <link>//localhost:1313/forhandling/hoghyra/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/forhandling/hoghyra/</guid>
-      <description>Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt.</description>
+      <description>&lt;p&gt;Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt. I Sverige råder inte marknadshyror, utan hyressättningssystemet bygger istället på något som heter bruksvärde.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tvingande regler</title>
-      <link>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/002tvingande/</link>
+      <link>//localhost:1313/baskunskaper/002hlgrund/skydd/002tvingande/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/002tvingande/</guid>
-      <description>Hur går processen till? Introduktion För att se till att hyresvärdar inte kan göra precis som de vill när det kommer till t.</description>
+      <guid>//localhost:1313/baskunskaper/002hlgrund/skydd/002tvingande/</guid>
+      <description>&lt;h4 id=&#34;hur-går-processen-till&#34;&gt;Hur går processen till?&lt;/h4&gt;&#xA;&lt;h5 id=&#34;introduktion&#34;&gt;Introduktion&lt;/h5&gt;&#xA;&lt;p&gt;För att se till att hyresvärdar inte kan göra precis som de vill när det kommer till t.ex. uppsägningar finns det ett antal sätt som man från statligt håll kontrollerar detta.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vad är skillnaden?</title>
       <link>//localhost:1313/ueb/hurskiljerdetsig/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/ueb/hurskiljerdetsig/</guid>
-      <description>På vilka punkter skiljer sig privatuthyrningslagen från hyreslagen? Antalet skillnader mellan lagarna är inte jättestort.</description>
+      <description>&lt;h5 id=&#34;på-vilka-punkter-skiljer-sig-privatuthyrningslagen-från-hyreslagen&#34;&gt;På vilka punkter skiljer sig privatuthyrningslagen från hyreslagen?&lt;/h5&gt;&#xA;&lt;p&gt;&lt;strong&gt;Antalet skillnader&lt;/strong&gt; mellan lagarna är inte jättestort. Däremot skiljer de sig markant i de områden som spelar som allra störst roll för hyresgästen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Besittningsskydd (med undantag)</title>
       <link>//localhost:1313/uppsagd/besittningsskydd/</link>
       <pubDate>Thu, 29 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/uppsagd/besittningsskydd/</guid>
-      <description>Besittningsskyddet är en grundläggande rättighet som hyresgäster får genom hyreslagen. Det innebär inte att man som hyresgäst inte kan bli uppsagd från sin lägenhet, men det ställer upp regler och ramverk för vad som måste ske för att en hyresvärd ska få säga upp en hyresgäst.</description>
+      <description>&lt;p&gt;Besittningsskyddet är en grundläggande rättighet som hyresgäster får genom hyreslagen. Det innebär inte att man som hyresgäst inte &lt;strong&gt;kan&lt;/strong&gt; bli uppsagd från sin lägenhet, men det ställer upp regler och ramverk för vad som måste ske för att en hyresvärd ska få säga upp en hyresgäst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>§ 2 - bostadsarende</title>
       <link>//localhost:1313/hyreslagen/p002/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p002/</guid>
-      <description>Här finns inga kommentarer, sajten rör bara bostadshyresavtal. 1 st. Avtal om bostadsarrende skall träffas för viss tid, minst fem år, eller för arrendatorns livstid.</description>
+      <description>&lt;h5 id=&#34;här-finns-inga-kommentarer&#34;&gt;&lt;strong&gt;Här finns inga kommentarer,&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;h6 id=&#34;sajten-rör-bara-bostadshyresavtal&#34;&gt;&lt;strong&gt;sajten rör bara bostadshyresavtal.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;h6 id=&#34;1-st&#34;&gt;&lt;strong&gt;1 st.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;Avtal om bostadsarrende skall träffas för viss tid, minst fem år, eller för arrendatorns livstid.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Din uppsägningstid</title>
-      <link>//localhost:1313/viktigadatum/uppsagningar/</link>
+      <title>Flytta ut</title>
+      <link>//localhost:1313/viktigadatum/kalender/datum/002utflytt/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/viktigadatum/uppsagningar/</guid>
+      <guid>//localhost:1313/viktigadatum/kalender/datum/002utflytt/</guid>
       <description></description>
     </item>
     <item>
       <title>Exempel på tvingande regel</title>
-      <link>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/003uppsagningstid/</link>
+      <link>//localhost:1313/baskunskaper/002hlgrund/skydd/003uppsagningstid/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/003uppsagningstid/</guid>
-      <description>Tvingande bestämmelser Ett exempel -Uppsägningstid Ett bra exempel på en tvingande regel är avtalets uppsägningstid.</description>
+      <guid>//localhost:1313/baskunskaper/002hlgrund/skydd/003uppsagningstid/</guid>
+      <description>&lt;h4 id=&#34;tvingande-bestämmelser&#34;&gt;Tvingande bestämmelser&lt;/h4&gt;&#xA;&lt;h5 id=&#34;ett-exempel--uppsägningstid&#34;&gt;Ett exempel -Uppsägningstid&lt;/h5&gt;&#xA;&lt;p&gt;Ett bra exempel på en tvingande regel är avtalets uppsägningstid. De uppsägningstider som gäller framgår av &lt;a href=&#34;//localhost:1313/hyreslagen/p004/&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;&lt;strong&gt;hyreslagens fjärde paragraf&lt;/strong&gt;&lt;/a&gt;&#xA; och beror väldigt mycket på hur långt hyresavtalet är. Utgångspunkten i hyreslagen är att normen skall vara förstahandskontrakt med tillsvidareavtal. Tillsvidareavtal innebär alltså att avtalet inte har ett utsatt datum för när det skall upphöra utan löper på &amp;ldquo;tills vidare&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kalendermånad? - Olika typer av uppsägningar</title>
       <link>//localhost:1313/uppsagd/tvistensart/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/uppsagd/tvistensart/</guid>
-      <description>Tre kalendermånader innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Tre kalendermånader&lt;/strong&gt; innebär att tidsperioden för uppsägningen börjar räknas från och med nästkommande månadsskifte. &lt;strong&gt;Får du uppsägningen sjunde juni&lt;/strong&gt; så börjar alltså uppsägningstiden att gälla &lt;strong&gt;den första juli&lt;/strong&gt; och med tre kalendermånaders uppsägningstid innebär det alltså att uppsägningstiden blir under juli, augusti och september månad.&lt;/p&gt;</description>
     </item>
     <item>
       <title>§ 3 - utgångspunkter för hyrestid</title>
       <link>//localhost:1313/hyreslagen/p003/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p003/</guid>
-      <description>1 st. Hyresavtal gäller för obestämd tid, om inte annat följer av andra stycket.</description>
+      <description>&lt;h6 id=&#34;1-st&#34;&gt;&lt;strong&gt;1 st.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;Hyresavtal gäller för obestämd tid, om inte annat följer av andra stycket. Hyresavtal som gäller för obestämd tid skall sägas upp för att upphöra att gälla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Säg upp parkeringsplats</title>
+      <link>//localhost:1313/viktigadatum/kalender/datum/003makulerapark/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/viktigadatum/kalender/datum/003makulerapark/</guid>
+      <description></description>
     </item>
     <item>
       <title>§ 4 - uppsägningstider</title>
       <link>//localhost:1313/hyreslagen/p004/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p004/</guid>
-      <description>1 st. Hyresavtal som gäller för obestämd tid kan, om inte längre uppsägningstid har avtalats, sägas upp för att upphöra att gälla</description>
+      <description>&lt;h6 id=&#34;1-st&#34;&gt;&lt;strong&gt;1 st.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;Hyresavtal som gäller för obestämd tid kan, om inte längre uppsägningstid har avtalats, sägas upp för att upphöra att gälla&lt;/p&gt;</description>
     </item>
     <item>
       <title>§ 5 - hyresgästens &amp; dödsbons uppsägningstid</title>
       <link>//localhost:1313/hyreslagen/p005/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p005/</guid>
-      <description>1 st. Avser ett hyresavtal en bostadslägenhet, får hyresgästen alltid säga upp hyresavtalet att upphöra att gälla vid månadsskifte som inträffar tidigast efter tre månader från uppsägningen.</description>
+      <description>&lt;h6 id=&#34;1-st&#34;&gt;&lt;strong&gt;1 st.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;Avser ett hyresavtal en bostadslägenhet, får hyresgästen alltid säga upp hyresavtalet att upphöra att gälla vid månadsskifte som inträffar tidigast efter tre månader från uppsägningen.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -139,14 +146,14 @@
       <link>//localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/faq/</guid>
-      <description>Är sajten kopplad till Hyresgästföreningen? Nej. Inte alls. Jag som har skapat den arbetar på Hyresgästföreningen som juridisk rådgivare, men det här är ett sidoprojekt som inte över huvud taget är kopplat till Hyresgästföreningen.</description>
+      <description>&lt;div class=&#34;accordion&#34;&gt;&#xA;  &lt;div class=&#34;accordion-item&#34;&gt;&#xA;    &lt;h2 class=&#34;accordion-header my-0&#34; id=&#34;title-%C3%A4r-sajten-kopplad-till-hyresg%C3%A4stf%C3%B6reningen&#34;&gt;&#xA;      &lt;button class=&#34;accordion-button collapsed&#34; type=&#34;button&#34; data-bs-toggle=&#34;collapse&#34; data-bs-target=&#34;#collapse-8c428ed30bc220eeb82a2687545e1dc0e85905a9&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;8c428ed30bc220eeb82a2687545e1dc0e85905a9&#34;&gt; Är sajten kopplad till Hyresgästföreningen?&lt;/button&gt;&#xA;    &lt;/h2&gt;&#xA;    &lt;div id=&#34;collapse-8c428ed30bc220eeb82a2687545e1dc0e85905a9&#34; class=&#34;accordion-collapse collapse&#34; aria-labelledby=&#34;title-%C3%A4r-sajten-kopplad-till-hyresg%C3%A4stf%C3%B6reningen&#34;&gt;&#xA;      &lt;div class=&#34;accordion-body&#34;&gt;Nej. Inte alls. Jag som har skapat den arbetar på Hyresgästföreningen som juridisk rådgivare, men det här är ett sidoprojekt som inte över huvud taget är kopplat till Hyresgästföreningen.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;accordion&#34;&gt;&#xA;  &lt;div class=&#34;accordion-item&#34;&gt;&#xA;    &lt;h2 class=&#34;accordion-header my-0&#34; id=&#34;title-sajten-r%C3%A4cker-inte-till.-jag-har-inte-f%C3%A5tt-svar-p%C3%A5-min-fr%C3%A5ga.&#34;&gt;&#xA;      &lt;button class=&#34;accordion-button collapsed&#34; type=&#34;button&#34; data-bs-toggle=&#34;collapse&#34; data-bs-target=&#34;#collapse-4b2825a2127e7c4460673f9749189c040b100f41&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;4b2825a2127e7c4460673f9749189c040b100f41&#34;&gt; Sajten räcker inte till. Jag har inte fått svar på min fråga.&lt;/button&gt;&#xA;    &lt;/h2&gt;&#xA;    &lt;div id=&#34;collapse-4b2825a2127e7c4460673f9749189c040b100f41&#34; class=&#34;accordion-collapse collapse&#34; aria-labelledby=&#34;title-sajten-r%C3%A4cker-inte-till.-jag-har-inte-f%C3%A5tt-svar-p%C3%A5-min-fr%C3%A5ga.&#34;&gt;&#xA;      &lt;div class=&#34;accordion-body&#34;&gt;Då får jag inget annat än beklaga! Gå med i Hyresgästföreningen och ring 0771 - 443 443 så får du mer ingående rådgivning om just din situaiton. Vill du inte betala något kan du alltid skicka in en gratisfråga till Lawline, men deras svar i just hyresrätt är ofta felaktiga.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;accordion&#34;&gt;&#xA;  &lt;div class=&#34;accordion-item&#34;&gt;&#xA;    &lt;h2 class=&#34;accordion-header my-0&#34; id=&#34;title-n%C3%A5gonting-p%C3%A5-hemsidan-%C3%A4r-felaktigt-//-trasigt-vad-g%C3%B6r-jag&#34;&gt;&#xA;      &lt;button class=&#34;accordion-button collapsed&#34; type=&#34;button&#34; data-bs-toggle=&#34;collapse&#34; data-bs-target=&#34;#collapse-7d7abecd11cacb365d9d809fa28ed044074251ad&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;7d7abecd11cacb365d9d809fa28ed044074251ad&#34;&gt; Någonting på hemsidan är felaktigt // trasigt, vad gör jag?&lt;/button&gt;&#xA;    &lt;/h2&gt;&#xA;    &lt;div id=&#34;collapse-7d7abecd11cacb365d9d809fa28ed044074251ad&#34; class=&#34;accordion-collapse collapse&#34; aria-labelledby=&#34;title-n%C3%A5gonting-p%C3%A5-hemsidan-%C3%A4r-felaktigt-//-trasigt-vad-g%C3%B6r-jag&#34;&gt;&#xA;      &lt;div class=&#34;accordion-body&#34;&gt;Har du upptäckt att jag har skrivit någonting som är inkorrekt kan du alltid slänga iväg ett mejl till &lt;a href=&#34;mailto:erik@kallmoraberget.com&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;erik@kallmoraberget.com&lt;/a&gt;&#xA;.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;accordion&#34;&gt;&#xA;  &lt;div class=&#34;accordion-item&#34;&gt;&#xA;    &lt;h2 class=&#34;accordion-header my-0&#34; id=&#34;title-mina-andra-projekt&#34;&gt;&#xA;      &lt;button class=&#34;accordion-button collapsed&#34; type=&#34;button&#34; data-bs-toggle=&#34;collapse&#34; data-bs-target=&#34;#collapse-b89e87b4d83247a17b0eb0c54ceec98f77ed433b&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;b89e87b4d83247a17b0eb0c54ceec98f77ed433b&#34;&gt; Mina andra projekt&lt;/button&gt;&#xA;    &lt;/h2&gt;&#xA;    &lt;div id=&#34;collapse-b89e87b4d83247a17b0eb0c54ceec98f77ed433b&#34; class=&#34;accordion-collapse collapse&#34; aria-labelledby=&#34;title-mina-andra-projekt&#34;&gt;&#xA;      &lt;div class=&#34;accordion-body&#34;&gt;Du får gärna ta en sväng förbi min &lt;a href=&#34;https://kallmoraberget.com&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;foto-portfölj&lt;/a&gt;&#xA; eller min &lt;a href=&#34;https://analogriktning.kallmoraberget.com&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;blogg&lt;/a&gt;&#xA;.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Öppenhet.</title>
       <link>//localhost:1313/oppenkallkod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/oppenkallkod/</guid>
-      <description>Den här hemsidan är byggd på öppen källkod. Du hittar hela sajtens källkod här.</description>
+      <description>&lt;h5 id=&#34;den-här-hemsidan-är-byggd-på-öppen-källkod&#34;&gt;Den här hemsidan är byggd på öppen källkod.&lt;/h5&gt;&#xA;&lt;p&gt;Du hittar hela sajtens &lt;a href=&#34;https://github.com/erikalvner/hyresratt&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;källkod här.&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
