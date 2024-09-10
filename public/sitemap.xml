@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/001besittningsskydd/</loc>
+    <lastmod>2024-09-02T11:02:05+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/ueb/hurvetjag/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/baskunskaper/001juridiskagrunder/</loc>
-    <lastmod>2024-09-02T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/001besittningsskydd/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/baskunskaper/</loc>
@@ -39,6 +39,9 @@
     <lastmod>2024-08-29T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/hyreslagen/p002/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/viktigadatum/uppsagningar/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/hyreslagen/</loc>

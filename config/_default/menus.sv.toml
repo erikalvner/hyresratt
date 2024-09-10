@@ -20,37 +20,44 @@ name = "navigering"
 hasChildren = true
 
   [[main]]
+
   parent = "navigering"
   name = "Hyreshöjningar // förhandlingar"
   url = "forhandling/"
-  weight = 1
+  weight = 2
 
   [[main]]
   parent = "navigering"
   name = "Uppsagd"
   url = "uppsagd/"
-  weight = 2
+  weight = 3
 
   [[main]]
   parent = "navigering"
   name = "Brister"
   url = "brister/"
-  weight = 3
+  weight = 4
 
   [[main]]
   parent = "navigering"
   name = "Hyreslagen"
   url = "hyreslagen/"
-  weight = 4
+  weight = 5
 
   [[main]]
   parent = "navigering"
   name = "Privatuthyrningslagen"
   url = "ueb/"
-  weight = 5
+  weight = 6
 
   [[main]]
   parent = "navigering"
   name = "Viktiga datum"
   url = "viktigadatum/"
-  weight = 6
+  weight = 7
+
+  [[main]]
+  parent = "navigering"
+  name = "Baskunskaper"
+  url = "baskunskaper/"
+  weight = 1

@@ -15,5 +15,12 @@
       <guid>//localhost:1313/viktigadatum/inflytt/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Din uppsägningstid</title>
+      <link>//localhost:1313/viktigadatum/uppsagningar/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/viktigadatum/uppsagningar/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
