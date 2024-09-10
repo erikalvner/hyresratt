@@ -9,18 +9,39 @@
     <lastBuildDate>Tue, 27 Aug 2024 10:42:26 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/hyreslagen/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>§1 - hyresavtal och lägenheter</title>
-      <link>//localhost:1313/hyreslagen/p01/</link>
+      <title>§ 1 - hyresavtal och lägenheter</title>
+      <link>//localhost:1313/hyreslagen/p001/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/hyreslagen/p01/</guid>
+      <guid>//localhost:1313/hyreslagen/p001/</guid>
       <description>1 st. Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
     </item>
     <item>
-      <title>§2 - lägenhetshyra eller arrende?</title>
-      <link>//localhost:1313/hyreslagen/p02/</link>
+      <title>§ 2 - bostadsarende</title>
+      <link>//localhost:1313/hyreslagen/p002/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/hyreslagen/p02/</guid>
-      <description>1 st. Detta kapitel avser avtal, genom vilka hus eller delar av hus upplåts till nyttjande mot ersättning.</description>
+      <guid>//localhost:1313/hyreslagen/p002/</guid>
+      <description>Här finns inga kommentarer, sajten rör bara bostadshyresavtal. 1 st. Avtal om bostadsarrende skall träffas för viss tid, minst fem år, eller för arrendatorns livstid.</description>
+    </item>
+    <item>
+      <title>§ 3 - utgångspunkter för hyrestid</title>
+      <link>//localhost:1313/hyreslagen/p003/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/p003/</guid>
+      <description>1 st. Hyresavtal gäller för obestämd tid, om inte annat följer av andra stycket.</description>
+    </item>
+    <item>
+      <title>§ 4 - uppsägningstider</title>
+      <link>//localhost:1313/hyreslagen/p004/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/p004/</guid>
+      <description>1 st. Hyresavtal som gäller för obestämd tid kan, om inte längre uppsägningstid har avtalats, sägas upp för att upphöra att gälla</description>
+    </item>
+    <item>
+      <title>§ 5 - hyresgästens &amp; dödsbons uppsägningstid</title>
+      <link>//localhost:1313/hyreslagen/p005/</link>
+      <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/hyreslagen/p005/</guid>
+      <description>1 st. Avser ett hyresavtal en bostadslägenhet, får hyresgästen alltid säga upp hyresavtalet att upphöra att gälla vid månadsskifte som inträffar tidigast efter tre månader från uppsägningen.</description>
     </item>
   </channel>
 </rss>

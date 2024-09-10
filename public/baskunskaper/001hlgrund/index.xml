@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyreslagen - tolka rätt on hyreslag</title>
+    <link>//localhost:1313/baskunskaper/001hlgrund/</link>
+    <description>Recent content in Hyreslagen - tolka rätt on hyreslag</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Mon, 02 Sep 2024 11:02:05 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/baskunskaper/001hlgrund/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skyddslagstiftning</title>
+      <link>//localhost:1313/baskunskaper/001hlgrund/skyddslagstiftning/001besittningsskydd/</link>
+      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/baskunskaper/001hlgrund/skyddslagstiftning/001besittningsskydd/</guid>
+      <description>Vad innebär det? Introduktion Som jag gick igenom i överkategorin Juridiska grundkoncept brukar man säga att hyreslagen är en skyddslagstiftning.</description>
+    </item>
+  </channel>
+</rss>

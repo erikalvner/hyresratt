@@ -5,16 +5,16 @@
     <loc>//localhost:1313/ueb/hurvetjag/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/baskunskaper/001juridiskgrund/</loc>
+    <loc>//localhost:1313/baskunskaper/001juridiskagrunder/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/baskunskaper/001juridiskgrund/skyddslagstiftning/001besittningsskydd/</loc>
+    <loc>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/001besittningsskydd/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/baskunskaper/</loc>
     <lastmod>2024-09-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/hyreslagen/p01/</loc>
+    <loc>//localhost:1313/hyreslagen/p001/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/uppsagd/galleruppsagningen/</loc>
@@ -26,10 +26,10 @@
     <loc>//localhost:1313/forhandling/hoghyra/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/baskunskaper/001juridiskgrund/skyddslagstiftning/002tvingande/</loc>
+    <loc>//localhost:1313/baskunskaper/002hlgrund/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/baskunskaper/002hyran/</loc>
+    <loc>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/002tvingande/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/ueb/hurskiljerdetsig/</loc>
@@ -38,13 +38,13 @@
     <loc>//localhost:1313/uppsagd/besittningsskydd/</loc>
     <lastmod>2024-08-29T10:42:26+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/hyreslagen/p02/</loc>
+    <loc>//localhost:1313/hyreslagen/p002/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/hyreslagen/</loc>
     <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/baskunskaper/001juridiskgrund/skyddslagstiftning/003uppsagningstid/</loc>
+    <loc>//localhost:1313/baskunskaper/002hlgrund/skyddslagstiftning/003uppsagningstid/</loc>
     <lastmod>2024-09-02T11:02:05+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/uppsagd/tvistensart/</loc>
@@ -53,8 +53,17 @@
     <loc>//localhost:1313/viktigadatum/</loc>
     <lastmod>2024-09-01T00:00:00+02:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/hyreslagen/p003/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/brister/</loc>
     <lastmod>2024-09-01T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/hyreslagen/p004/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/hyreslagen/p005/</loc>
+    <lastmod>2024-08-27T10:42:26+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/uppsagd/</loc>
     <lastmod>2022-12-29T11:02:05+06:00</lastmod>

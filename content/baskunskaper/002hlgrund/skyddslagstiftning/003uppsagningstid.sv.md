@@ -73,5 +73,5 @@ Genom den fjärde paragrafen har lagstiftaren sett till att tre kalendermånader
 
 I lagens femte paragraf riktar lagstiftaren in sig specifikt på hyresgäster som hyr **bostadslägenheter**. Här har lagstiftaren bestämt att möjligheten till avtal om längre uppsägningstid som fjärde paragrafen introducerade, inte gäller för gruppen **hyresgäster i bostadslägenhet**.
 
-###### Så --- vad kommer man fram till egentligen?
+### **Så --- vad kommer man fram till egentligen?**
 Fjärde paragrafen ger möjlighet för ett avtalsvillkor som förlänger uppsägningstiden. Femte paragrafen hindrar ett sådant avtalsvillkor från att gälla om det rör sig om hyresgäst i bostadslägenhet. Avtal om längre uppsägningstid än tre kalendermånader är alltså **bindande för hyresvärden**, men är **verkningslöst för hyresgästens uppsägning**.
