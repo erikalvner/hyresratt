@@ -6,8 +6,15 @@
     <description>Recent content on hyreslag</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 02 Sep 2024 11:02:05 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 11:02:05 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lagar</title>
+      <link>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/lagrum/</link>
+      <pubDate>Mon, 11 Nov 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/lagrum/</guid>
+      <description>&lt;h5 id=&#34;hyreslagen&#34;&gt;&lt;strong&gt;Hyreslagen&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;p&gt;Nedan kommer jag att gå igenom vad du behvöer veta för att förstå dig på och kunna navigera genom just hyreslagen. Det finns självklart mycket mer att tillägga, men jag kommer inte att gå igenom sådant jag finner onödigt för att förstå hyreslagen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Besittningsskydd</title>
       <link>//localhost:1313/baskunskaper/002hlgrund/skydd/001besittningsskydd/</link>
@@ -21,13 +28,6 @@
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/ueb/hurvetjag/</guid>
       <description>&lt;p&gt;Det är minst sagt inte helt enkelt att avgöra om uthyrningen av ens lägenhet omfattas av privatuthyrningslagen eller inte. Reglerna är väldigt tydliga, men det kan vara väldigt svårt som hyresgäst att avgöra eller få reda på vissa mycket betydelsefulla delar.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Juridiska grundkoncept</title>
-      <link>//localhost:1313/baskunskaper/001juridiskagrunder/</link>
-      <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
-      <guid>//localhost:1313/baskunskaper/001juridiskagrunder/</guid>
-      <description>&lt;h5 id=&#34;extremt-grundläggande-juridik&#34;&gt;&lt;strong&gt;Extremt&lt;/strong&gt; grundläggande juridik&lt;/h5&gt;&#xA;&lt;p&gt;Tanken är att ge dig som läser detta en bas att stå på för att själv kunna läsa lite lagtext och tolka den på rätt sätt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>§ 1 - hyresavtal och lägenheter</title>
@@ -58,6 +58,13 @@
       <description>&lt;p&gt;Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt. I Sverige råder inte marknadshyror, utan hyressättningssystemet bygger istället på något som heter bruksvärde.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Rekvisit</title>
+      <link>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/rekvisit/</link>
+      <pubDate>Mon, 11 Nov 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/rekvisit/</guid>
+      <description>&lt;h5 id=&#34;byggstenar&#34;&gt;&lt;strong&gt;Byggstenar&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;p&gt;När du väl har hittat vad du letar efter blir det viktigt att kolla på de byggstenar som utgör det &lt;strong&gt;lagrum&lt;/strong&gt; du läser.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Tvingande regler</title>
       <link>//localhost:1313/baskunskaper/002hlgrund/skydd/002tvingande/</link>
       <pubDate>Mon, 02 Sep 2024 11:02:05 +0600</pubDate>
@@ -83,7 +90,7 @@
       <link>//localhost:1313/hyreslagen/p002/</link>
       <pubDate>Tue, 27 Aug 2024 11:02:05 +0600</pubDate>
       <guid>//localhost:1313/hyreslagen/p002/</guid>
-      <description>&lt;h5 id=&#34;här-finns-inga-kommentarer&#34;&gt;&lt;strong&gt;Här finns inga kommentarer,&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;h6 id=&#34;sajten-rör-bara-bostadshyresavtal&#34;&gt;&lt;strong&gt;sajten rör bara bostadshyresavtal.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;h6 id=&#34;1-st&#34;&gt;&lt;strong&gt;1 st.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;Avtal om bostadsarrende skall träffas för viss tid, minst fem år, eller för arrendatorns livstid.&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;här-finns-inga-kommentarer-än&#34;&gt;&lt;strong&gt;Här finns inga kommentarer än&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;h6 id=&#34;1-st&#34;&gt;&lt;strong&gt;1 st.&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;Hyresavtal skall upprättas skriftligen, om hyresvärden eller hyresgästen begär det.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flytta ut</title>

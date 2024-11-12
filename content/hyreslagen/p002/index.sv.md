@@ -8,23 +8,22 @@ draft: false
 keywords: ["inledning","belopp"]
 ---
 
-##### **Här finns inga kommentarer,**
-
-###### **sajten rör bara bostadshyresavtal.**
+##### **Här finns inga kommentarer än**
 
 ---
 
 ###### **1 st.**
-Avtal om bostadsarrende skall träffas för viss tid, minst fem år, eller för arrendatorns livstid.
+Hyresavtal skall upprättas skriftligen, om hyresvärden eller hyresgästen begär det.
+
 
 ---
 
 ###### **2 st.**
-Är arrendetiden icke bestämd enligt vad som sagts nu, gäller avtalet för fem år. Har avtal träffats för kortare tid, gäller det dock för den överenskomna tiden, om arrendenämnden godkänt avtalet i denna del.
+Har hyresavtal upprättats skriftligen och träder någon i laga ordning i hyresgästens ställe, skall detta på begäran antecknas på avtalet.
 
 ---
 
 ###### **3 st.**
-Förbehåll om rätt för jordägaren att i annat fall än som anges i 7 kap. 5 och 30 §§ samt 8 kap. 6, 14, 18 och 23 §§ återtaga arrendestället eller del därav före arrendetidens utgång gäller endast om det godkänts av arrendenämnden.
+Följer av ett hyresförhållande en rätt att använda utrymmen som är avsedda att användas gemensamt av hyresgästerna, får en sådan rätt inte upphävas eller ändras i annan ordning än som gäller för ändring av hyresvillkor, även om rätten inte är särskilt reglerad i avtalet mellan parterna. Lag (1984:694).
 
 ---

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juridiska grundkoncept on hyreslag</title>
+    <link>//localhost:1313/baskunskaper/001juridiskagrunder/</link>
+    <description>Recent content in Juridiska grundkoncept on hyreslag</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Mon, 11 Nov 2024 11:02:05 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/baskunskaper/001juridiskagrunder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lagar</title>
+      <link>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/lagrum/</link>
+      <pubDate>Mon, 11 Nov 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/lagrum/</guid>
+      <description>&lt;h5 id=&#34;hyreslagen&#34;&gt;&lt;strong&gt;Hyreslagen&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;p&gt;Nedan kommer jag att gå igenom vad du behvöer veta för att förstå dig på och kunna navigera genom just hyreslagen. Det finns självklart mycket mer att tillägga, men jag kommer inte att gå igenom sådant jag finner onödigt för att förstå hyreslagen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rekvisit</title>
+      <link>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/rekvisit/</link>
+      <pubDate>Mon, 11 Nov 2024 11:02:05 +0600</pubDate>
+      <guid>//localhost:1313/baskunskaper/001juridiskagrunder/lagrum/rekvisit/</guid>
+      <description>&lt;h5 id=&#34;byggstenar&#34;&gt;&lt;strong&gt;Byggstenar&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;p&gt;När du väl har hittat vad du letar efter blir det viktigt att kolla på de byggstenar som utgör det &lt;strong&gt;lagrum&lt;/strong&gt; du läser.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,16 @@
 [{
   "section": "Baskunskaper",
+  "slug": "/baskunskaper/001juridiskagrunder/lagrum/lagrum/",
+  "title": "Lagar",
+  "description": "",
+  "date": "11 november 2024",
+  "image": null,
+  "imageSM": null,
+  "searchKeyword": "",
+  "categories": "",
+  "tags": "",
+  "content":"Hyreslagen Nedan kommer jag att gå igenom vad du behvöer veta för att förstå dig på och kunna navigera genom just hyreslagen. Det finns självklart mycket mer att tillägga, men jag kommer inte att gå igenom sådant jag finner onödigt för att förstå hyreslagen.\nSFS-nummer Alla lagar blir tilldelade ett så kallat SFS-nummer. SFS står för Svensk författningssamling och är alltså benämningen på den samling i vilken alla lagar som passeras hamnar. SFS-numren är utformade efter vilket år lagen har stiftats och i vilken turordning det året just lagen i fråga stiftades. Om en lag var den fjortonde lagen att stiftas år 2021 blir SFS-numret alltså 2021:14.\nLagrum Ett lagrum kan man säga är en slags hänvisning till en viss lag eller framför allt en viss del av en lag. Om svaret på en fråga man har återfinns i ett visst stycke av en paragraf är det alltså stycket i fråga som är lagrummet. Hur omfattande lagrummet är beror på vad som behövs för att besvara frågan.\nHänvisning För att hänvisa till lagar anger man först och främst vilken paragraf man har läst. Efter paragrafen följer den punkt eller det stycke man önskar hänvisa till. Efter detta kommer kapitlet. Till sist anger man lagen själv, med sitt så kallade SFS-nummer.\nFör att korrekt hänvisa till den 41:a paragrafen i hyreslagen anger man alltså hänvisningen så här:\n41 § 12 kap. Jordabalk (1970:994)\nEftersom jordabalkens tolfte kapitel vanligtvis kallas för hyreslagen kan man också genomföra hänvisningen på annat vis, om det från sammanhanget går att utläsa att man pratar om hyresrätt:\n41 § HL\n"},{
+  "section": "Baskunskaper",
   "slug": "/baskunskaper/002hlgrund/skydd/001besittningsskydd/",
   "title": "Besittningsskydd",
   "description": "",
@@ -21,17 +32,6 @@
   "categories": "",
   "tags": "",
   "content":"Det är minst sagt inte helt enkelt att avgöra om uthyrningen av ens lägenhet omfattas av privatuthyrningslagen eller inte. Reglerna är väldigt tydliga, men det kan vara väldigt svårt som hyresgäst att avgöra eller få reda på vissa mycket betydelsefulla delar.\nAvtalsdatum Näringsverksamhet Engångs Fastställan Lagen stiftades 2012 och trädde i kraft i början av 2013. Har du hyrt ditt hus sedan innan den första februari 2013 så är det helt självklart att din bostads inte omfattas av privatuthyrningslagen.\nFlyttade du däremot in senare än så behöver vi dock gå vidare till nästa \u0026ldquo;tabb\u0026rdquo;, näringsverksamhet.\nFör att uthyrningen skall omfattas av privatuthyrningslagen får den inte ske i näringsverksamhet. Trots att lagen kallas för privatuthyrningslagen finns det inget hinder i lagen för ett bolag, en stiftelse eller annan juridisk person att hyra ut under privatuthyrningslagen, förutsatt att uthyrningen inte sker i näringsverksamhet.\nHyr man av en stiftelse skulle lagen därför kunna vara tillämplig. Läget är inte helt hundra, men ett aktiebolag borde, med stor sannolikhet inte kunna hyra ut enligt privatuthyrningslagen eftersom grundidéen bakom ett aktiebolag är just näringsverksamhet.\nMålet med privatuthyrningslagen har alltid varit att privatpersoner skall få det enklare att hyra ut bostäder som annars hade stått tomma. För att det inte skall gå att missbruka lagen så gäller bestämmelserna i den endast för den första upplåtelsen.\nHyr du t.ex. ett torp eller en bostadsrätt av en privatperson, stiftelse eller liknande kan det därför vara väldigt viktigt att ta reda på om det finns andra hyresgäster.\nDen här punkten kan vara lite svår att avgöra, men det viktiga är att ta reda på om det hyresvärden hade andra hyresgäster när du flyttade in.\nVid flera uthyrningar, om man till exempel bor på en gård och har flera uthus eller mer än ett torp, räknas endast det först ingågna hyresavtalet under privatuthyrningslagen. Hyresavtal som sluts efter det omfattas av hyreslagen och de vanliga reglerna gällande besittningsskydd gäller då.\nOm man inte vet och inte heller har möjlighet att ta reda på det jag gått igenom finns det egentligen bara ett sätt att avgöra frågan \u0026mdash; genom avtalstvist i tingsrätt.\nVid en avtalstvist får man presentera sin ståndpunkt och hyresvärden sin. Efter den information som presenteras gör tingsrätten i sådana fall en tolkning och fastställer huruvida hyreslagen eller privatuthyrningslagen gäller för uthyrningen.\nDen som förlorar i tingsrätten riskerar att behöva stå för motpartens rättegångskostnader.\n"},{
-  "section": "Baskunskaper",
-  "slug": "/baskunskaper/001juridiskagrunder/",
-  "title": "Juridiska grundkoncept",
-  "description": "",
-  "date": "2 september 2024",
-  "image": null,
-  "imageSM": null,
-  "searchKeyword": "",
-  "categories": "",
-  "tags": "",
-  "content":"Extremt grundläggande juridik Tanken är att ge dig som läser detta en bas att stå på för att själv kunna läsa lite lagtext och tolka den på rätt sätt.\nDet är vanligt att folk tänker sig att lagen är skriven för att vara enkel att följa, vilket absolut inte stämmer. Även om klarspråkstrenden har fått ett uppsving på senare år så skrivs lagtext för att vara exakt. Jag tänker att vi ska börja den här genomgången med en liten rundvandring i hur du navigerar i lagtext, lite om rekvisit, olika rättskällor och dess värde samt lite annat smått och gått jag tänker mig att man kan behöva ha som grund för att förstå till fullo, eller i varje fall nästan. Det är väldigt viktigt för att man skall kunna göra tolkningar. Utan tolkning kan man inte applicera någonting på den situation man själv befinner sig i.\n"},{
   "section": "Hyreslagen",
   "slug": "/hyreslagen/p001/",
   "title": "§ 1 - hyresavtal och lägenheter",
@@ -77,6 +77,17 @@
   "tags": "",
   "content":"Misstänker du att du betalar för mycket i hyra är det möjligt att man genom prövning i hyresnämnden kan få hyran sänkt. I Sverige råder inte marknadshyror, utan hyressättningssystemet bygger istället på något som heter bruksvärde.\nBruksvärde Hur man räknar på bruksvärdet mer ingående kan jag tyvärr inte svara på, men summan av kardemumman är att man tar i beaktning lägenhetens standard och skick tillsammans med avstånd till kollektivtrafik, tillbehör och dylikt. Efter det används en matris utifrån vilken bruksvärdet räknas ut.\nI praktiken är det vanliga att det tas fram utifrån så kallat referensmaterial. Med det menas alltså hyresnivån på liknande lägenheter i närområdet, Det kan vara svårt att få tag på och hjälp från Hyresgästföreningen är därför mycket bra att ha, eftersom de genom de kollektiva förhandlingarna vet vad hyresnivåerna i området normalt ligger på.\nHur vet jag om min hyra är rimlig? Du kan antingen fråga dina grannar, eller köra på magkänslan. Eftersom det är svårt att räkna ut bruksvärdet är det egentligen ingen idé att försöka själv. Om man känner andra som bor i lägenheter av liknande storlek och med liknande utrustning kan man självklart alltid fråga runt. Annars är det bästa att ringa Hyresgästföreningen och be om att få hyrans skälighet avgjord av en förhandlare. Hur går jag tillväga för att få hyran prövad Precis som när din hyresvärd vill höja hyran kan du ansöka om villkorsändring hos hyresnämnden. Var tydlig med att villkoret du vill ändra är hyresnivån och motivera varför du tycker att din hyra är för hög. Referensmaterial är viktigt och det kan därför, återigen, vara en bra idé att ringa Hyresgästföreningen och begära att få ärendet hanterat av en förhandlare, det är det absolut bästa sättet att få reda på om du betalar för hög hyra eller inte. "},{
   "section": "Baskunskaper",
+  "slug": "/baskunskaper/001juridiskagrunder/lagrum/rekvisit/",
+  "title": "Rekvisit",
+  "description": "",
+  "date": "11 november 2024",
+  "image": null,
+  "imageSM": null,
+  "searchKeyword": "",
+  "categories": "",
+  "tags": "",
+  "content":"Byggstenar När du väl har hittat vad du letar efter blir det viktigt att kolla på de byggstenar som utgör det lagrum du läser.\nLikt programmering - AND och OR Lagrum är på ett sätt väldigt lika vissa typer av \u0026ldquo;statements\u0026rdquo; i programmering eller sökning i lite mer avancerade databaser.\nVarje lag byggs upp av så kallade rekvisit. Rekvisiten är någonting som behöver uppfyllas för att lagen skall vara applicerbar. Det finns kumulativa och alternativa rekvisit.\nLite förenklat man man säga att kumulativa är AND-statements och alternativa är OR-statements i programmering eller databas-sök.\nKonkret Vad detta innebär rent konkret är att kumulativa rekvisit kan läggas på varandra och att samtliga måste uppfyllas för att lagen skall vara applicerbar. Alternativa rekvisit kan ersätta varandra och alla behöver då inte vara uppfyllda.\nExempel Ett exempel på detta är om man till exempel skriver en lag om stöld av frukter.\nDen som utan tillåtelse och utan att betala tar äpplen eller päron i en matbutik döms till fem månaders fängelse för fruktstöld\nI det här exemplet blir \u0026ldquo;utan tillåtelse\u0026rdquo; och \u0026ldquo;utan att betala\u0026rdquo; kumulativa rekvisit. För att lagen skall vara applicerbar måste personen i fråga sakna tillåtelse och låta bli att betala. Om han har tillåtelse eller om han betalar blir lagen alltså inte applicerbar.\nAtt han måste ta äpplen eller päron blir ett alternativt rekvisit och lagen är alltså tillämpningsbar oavsett om personen i fråga har stulit äpplen eller päron. Men, det måste också ha skett i en matbutik. Om det sker på ett kafé går lagen alltså inte att tillämpa.\nAllt detta är rekvisit. Alltså saker som behöver uppfyllas för att en lag skall vara tillämpningsbar. Det vanligaste felet man gör när man läser lagar är att man missar ett visst rekvisit som måste gälla för att lagen skall vara tillämpningsbar.\n"},{
+  "section": "Baskunskaper",
   "slug": "/baskunskaper/002hlgrund/skydd/002tvingande/",
   "title": "Tvingande regler",
   "description": "",
@@ -119,7 +130,7 @@
   "searchKeyword": "",
   "categories": "",
   "tags": "",
-  "content":"Här finns inga kommentarer, sajten rör bara bostadshyresavtal. 1 st. Avtal om bostadsarrende skall träffas för viss tid, minst fem år, eller för arrendatorns livstid.\n2 st. Är arrendetiden icke bestämd enligt vad som sagts nu, gäller avtalet för fem år. Har avtal träffats för kortare tid, gäller det dock för den överenskomna tiden, om arrendenämnden godkänt avtalet i denna del.\n3 st. Förbehåll om rätt för jordägaren att i annat fall än som anges i 7 kap. 5 och 30 §§ samt 8 kap. 6, 14, 18 och 23 §§ återtaga arrendestället eller del därav före arrendetidens utgång gäller endast om det godkänts av arrendenämnden.\n"},{
+  "content":"Här finns inga kommentarer än 1 st. Hyresavtal skall upprättas skriftligen, om hyresvärden eller hyresgästen begär det.\n2 st. Har hyresavtal upprättats skriftligen och träder någon i laga ordning i hyresgästens ställe, skall detta på begäran antecknas på avtalet.\n3 st. Följer av ett hyresförhållande en rätt att använda utrymmen som är avsedda att användas gemensamt av hyresgästerna, får en sådan rätt inte upphävas eller ändras i annan ordning än som gäller för ändring av hyresvillkor, även om rätten inte är särskilt reglerad i avtalet mellan parterna. Lag (1984:694).\n"},{
   "section": "Viktigadatum",
   "slug": "/viktigadatum/kalender/datum/002utflytt/",
   "title": "Flytta ut",
